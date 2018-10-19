@@ -1,31 +1,341 @@
 {
   "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
-  "build" : 67048,
-  "version" : 112,
-  "fonts" : [
-    "MicrosoftYaHei",
-    "MicrosoftYaHei-Bold",
-    "Roboto-Bold",
-    "Roboto-Regular"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
-    "appVersion" : "52.1",
-    "build" : 67048,
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67048"
-  ],
-  "appVersion" : "52.1",
   "pagesAndArtboards" : {
+    "F4AD6B19-DEDD-433B-8E19-1E337D055BC4" : {
+      "name" : "🎨 Color",
+      "artboards" : {
+        "B1D3D5CE-4022-444C-84D0-DC7CD4339511" : {
+          "name" : "color-palette\/teal\/teal-9"
+        },
+        "4989CAAF-BDDF-497F-B1F0-C50F0FE42ED4" : {
+          "name" : "color-palette\/orange\/orange-3"
+        },
+        "35BAEC17-32D7-48B6-AC82-254DDBA0B35E" : {
+          "name" : "color-palette\/green\/green-1"
+        },
+        "328A757B-0C36-48F8-B296-5EF9C7E3029A" : {
+          "name" : "color-palette\/red\/red-6"
+        },
+        "0EBDFA99-E473-4807-AECA-73509492ECB6" : {
+          "name" : "color-palette\/pink\/pink-2"
+        },
+        "C153CDCA-E813-4181-AD92-BA538FD52819" : {
+          "name" : "color-palette\/red\/red-9"
+        },
+        "1344E93C-824F-42FE-B5B6-92AF4D059C1F" : {
+          "name" : "color-palette\/pink\/pink-9"
+        },
+        "C7244122-C6AC-4E10-8DEA-BA7EA76B594F" : {
+          "name" : "color-palette\/indigo\/indigo-3"
+        },
+        "3FE54E43-96F1-411A-8578-3C13EFF0756C" : {
+          "name" : "color-palette\/orange\/orange-7"
+        },
+        "C2212B9A-5508-443F-8991-F08AF11F914C" : {
+          "name" : "color-palette\/grey\/grey-3"
+        },
+        "E852EC9D-BCFC-4F8A-A32C-D645F12C9D4F" : {
+          "name" : "color-palette\/teal\/teal-7"
+        },
+        "A184B0C0-D701-4D20-B228-C508B68DF571" : {
+          "name" : "color-palette\/green\/green-6"
+        },
+        "A1DB622D-B14B-4AF0-8D45-98E9038D5ECF" : {
+          "name" : "color-palette\/green\/green-8"
+        },
+        "02C28AFA-892F-44C6-BBF5-4E293E744522" : {
+          "name" : "color-palette\/blue\/blue-8"
+        },
+        "9D32980B-A897-4E17-9EDB-DCF3B95A5B04" : {
+          "name" : "color-palette\/violet\/violet-8"
+        },
+        "C92AD508-0DC2-4174-AEE3-AEB71D9BCF37" : {
+          "name" : "color-palette\/violet\/violet-6"
+        },
+        "DBAE1DDA-0BCA-412B-BAAC-323F82376C1E" : {
+          "name" : "color-palette\/cyan\/cyan-5"
+        },
+        "321CC372-71ED-405B-A827-0697E96A0F60" : {
+          "name" : "color-palette\/orange\/orange-8"
+        },
+        "5C1A34B6-9249-4D62-A895-3352713AC248" : {
+          "name" : "color-palette\/green\/green-5"
+        },
+        "1AF996F4-C406-4497-98C0-12A71AD750A9" : {
+          "name" : "color-palette\/grey\/grey-8"
+        },
+        "8654B155-6C7E-4689-A365-FFE419DA5B89" : {
+          "name" : "color-palette\/teal\/teal-5"
+        },
+        "01977156-11F0-44E9-A768-600188A6AEE0" : {
+          "name" : "color-palette\/green\/green-2"
+        },
+        "2B69152A-F2E6-4583-8272-B15E84D203FE" : {
+          "name" : "color-palette\/lime\/lime-8"
+        },
+        "0F162728-896D-40DA-86AA-9111AEB9200D" : {
+          "name" : "color-palette\/lime\/lime-9"
+        },
+        "CA33591F-2A30-4E4B-94C7-49AE603B123F" : {
+          "name" : "color-palette\/yellow\/yellow-8"
+        },
+        "AA362619-1549-491A-AF8A-8CD714E02C0C" : {
+          "name" : "color-palette\/lime\/lime-7"
+        },
+        "6018912A-03D8-4510-9D3B-336AB5DDE04A" : {
+          "name" : "color-palette\/teal\/teal-1"
+        },
+        "820BD9FB-C280-4CE4-A1EC-22574AFFF0D4" : {
+          "name" : "color-palette\/orange\/orange-1"
+        },
+        "1F53B6F3-601B-47C6-A7F0-FAB5379557C8" : {
+          "name" : "color-palette\/indigo\/indigo-7"
+        },
+        "EDA55C87-8B2B-4A39-A50C-D184D5DB6DAA" : {
+          "name" : "color-palette\/pink\/pink-8"
+        },
+        "19D47F5C-8CA3-4817-A020-B6D798A1CED1" : {
+          "name" : "color-palette\/green\/green-4"
+        },
+        "B0BE6B81-E15F-4AC0-8D97-A2A56546B5DD" : {
+          "name" : "color-palette\/indigo\/indigo-1"
+        },
+        "69348993-E761-4134-B582-7D9165129650" : {
+          "name" : "color-palette\/pink\/pink-1"
+        },
+        "B08F0F8A-40D1-4669-937B-5DAE5D397D21" : {
+          "name" : "color-palette\/red\/red-2"
+        },
+        "D14E4D8A-A54E-49AF-B100-E0A6B371CC85" : {
+          "name" : "color-palette\/orange\/orange-5"
+        },
+        "F6324BAB-8DAD-49E5-8A4F-AC5E6EEFA832" : {
+          "name" : "color-palette\/teal\/teal-4"
+        },
+        "A3D9B9CA-B732-4776-AEA6-02D579FADFD7" : {
+          "name" : "color-palette\/cyan\/cyan-1"
+        },
+        "C5FA3D39-F19E-4B71-B002-9C7CCD4A8B17" : {
+          "name" : "color-palette\/indigo\/indigo-6"
+        },
+        "08F6DAB2-7D2B-4561-8722-94BE8EB05423" : {
+          "name" : "color-palette\/yellow\/yellow-5"
+        },
+        "2A1F597F-EE05-41FF-B41B-470FF6865DE0" : {
+          "name" : "color-palette\/violet\/violet-9"
+        },
+        "3275E43E-DCA3-4863-9267-11B9958F3020" : {
+          "name" : "color-palette\/blue\/blue-4"
+        },
+        "2FF9184E-51DA-4CC2-8583-E721B4302E24" : {
+          "name" : "color-palette\/violet\/violet-4"
+        },
+        "36132485-B11B-48C7-8C95-76DB70659435" : {
+          "name" : "color-palette\/blue\/blue-9"
+        },
+        "38C4AD48-68BF-4702-88A8-18A27020E8E4" : {
+          "name" : "color-palette\/yellow\/yellow-2"
+        },
+        "450E942F-B854-4F6B-8936-B83624387F7F" : {
+          "name" : "color-palette\/yellow\/yellow-1"
+        },
+        "23E5AEB3-52AC-48B2-A230-8655D4BABBFA" : {
+          "name" : "color-palette\/blue\/blue-6"
+        },
+        "05A36103-4F16-43AE-B431-A44ADD057764" : {
+          "name" : "color-palette\/green\/green-3"
+        },
+        "57EFDD16-910C-47DD-AD47-15E073101423" : {
+          "name" : "color-palette\/yellow\/yellow-7"
+        },
+        "F632E008-1868-474B-BA46-FF1EB5A494B5" : {
+          "name" : "color-palette\/violet\/violet-1"
+        },
+        "4269DCD4-3BF1-4449-951E-20E929E0E41C" : {
+          "name" : "color-palette\/black"
+        },
+        "1C60EDAA-E374-4D29-A949-9360F25AFEEC" : {
+          "name" : "color-palette\/red\/red-5"
+        },
+        "716504E3-1AFE-44FD-8AEE-B0B070A9A91F" : {
+          "name" : "color-palette\/lime\/lime-6"
+        },
+        "EC208F7E-AA0F-4F0E-BF62-5B4D762E0AE2" : {
+          "name" : "color-palette\/cyan\/cyan-6"
+        },
+        "3E823FB3-5B58-452A-94C3-8404A9F5AA44" : {
+          "name" : "color-palette\/red\/red-8"
+        },
+        "590D3DAF-B849-4725-85F1-293DAFA78B27" : {
+          "name" : "color-palette\/orange\/orange-9"
+        },
+        "9BA2F9A8-738E-4BA7-93DA-09B64910CC4D" : {
+          "name" : "color-palette\/violet\/violet-7"
+        },
+        "CBDD59B4-7D7D-4486-AB97-5CAC0D69C2CD" : {
+          "name" : "color-palette\/cyan\/cyan-3"
+        },
+        "B7B1B9A0-B0B7-4DE6-A88B-23C115BAB7A7" : {
+          "name" : "color-palette\/pink\/pink-5"
+        },
+        "4D94BC19-A1CB-488F-AB3A-7AA973538FB7" : {
+          "name" : "color-palette\/teal\/teal-8"
+        },
+        "64B31A6D-6384-444B-B90D-1D2190A27CBD" : {
+          "name" : "color-palette\/yellow\/yellow-9"
+        },
+        "AA618711-65CF-481C-953C-E7B7F39D6E44" : {
+          "name" : "color-palette\/red\/red-1"
+        },
+        "91281840-5452-48BD-99CE-8A8DCABA19F7" : {
+          "name" : "color-palette\/red\/red-3"
+        },
+        "41448D8F-0F00-40FC-8079-E044A8662F91" : {
+          "name" : "color-palette\/blue\/blue-1"
+        },
+        "1BC73153-2A20-461F-BB63-BD7B4FC77E51" : {
+          "name" : "color-palette\/pink\/pink-7"
+        },
+        "C12DADA1-1BED-4EF1-AA61-58C483BAA877" : {
+          "name" : "color-palette\/cyan\/cyan-4"
+        },
+        "AD343C68-B11E-44ED-B23D-D4760B2F72D9" : {
+          "name" : "color-palette\/yellow\/yellow-4"
+        },
+        "187AD1C8-222A-430E-A446-291FD63FA3BE" : {
+          "name" : "color-palette\/grey\/grey-1"
+        },
+        "BA404E8C-CB2C-41B4-84DF-A4EC74687ED9" : {
+          "name" : "color-palette\/grey\/grey-7"
+        },
+        "2F42EBB1-2FB1-4342-BC88-32FB49123E77" : {
+          "name" : "color-palette\/red\/red-7"
+        },
+        "AA0451B4-AF4C-4CEE-9F72-23F7FF71D35C" : {
+          "name" : "color-palette\/indigo\/indigo-4"
+        },
+        "9E9D16F4-2787-4C3B-B781-D841BB856A50" : {
+          "name" : "color-palette\/cyan\/cyan-8"
+        },
+        "77290100-3C02-4041-BD4C-1F55B26807D5" : {
+          "name" : "color-palette\/yellow\/yellow-3"
+        },
+        "09666B45-A75D-4B82-AB43-38C8B8D470F5" : {
+          "name" : "color-palette\/green\/green-7"
+        },
+        "0D4CEA10-D175-49BE-852B-56479D094EA9" : {
+          "name" : "color-palette\/blue\/blue-3"
+        },
+        "2DDDB38D-06E3-43D4-B637-A7FA9055A687" : {
+          "name" : "color-palette\/grey\/grey-6"
+        },
+        "27F8E8E5-EF83-4E75-B46F-90F2AEDE7919" : {
+          "name" : "color-palette\/teal\/teal-2"
+        },
+        "319AF5F5-44F2-464A-9FB2-4228FA9E39FF" : {
+          "name" : "color-palette\/blue\/blue-5"
+        },
+        "A98391E9-6ABA-42FA-9945-E541902037BD" : {
+          "name" : "color-palette\/orange\/orange-4"
+        },
+        "0E9A68C7-F5F4-4FDB-BFC6-11759632D7A7" : {
+          "name" : "color-palette\/orange\/orange-6"
+        },
+        "FFBCA864-28CB-4FCC-97EA-5145D965BA47" : {
+          "name" : "color-palette\/grey\/grey-2"
+        },
+        "AA8770A7-9D96-46B8-AE2D-35EB43399E2A" : {
+          "name" : "color-palette\/indigo\/indigo-5"
+        },
+        "3D2D97E7-DB4B-4424-A143-1E3D5E6ACF96" : {
+          "name" : "color-palette\/lime\/lime-3"
+        },
+        "3FB09A39-C0CF-4CAA-942A-1DC201FC9E01" : {
+          "name" : "color-palette\/orange\/orange-2"
+        },
+        "4F1AD490-D259-408A-BE30-F4D5F21D5863" : {
+          "name" : "color-palette\/lime\/lime-5"
+        },
+        "5110BA94-F090-405A-8D9A-4127DD5AAD70" : {
+          "name" : "color-palette\/teal\/teal-3"
+        },
+        "C21160BF-04D2-48AD-9BD6-E4CC4E19C456" : {
+          "name" : "color-palette\/cyan\/cyan-9"
+        },
+        "5445F97F-F0F0-4CF7-9964-64856CC64F49" : {
+          "name" : "color-palette\/indigo\/indigo-9"
+        },
+        "76C75A77-DCC0-4BAB-AFDC-CB11B63D2C6E" : {
+          "name" : "color-palette\/teal\/teal-6"
+        },
+        "A38FE6A2-8B82-40DF-B2BD-3BD29D906C1A" : {
+          "name" : "color-palette\/red\/red-4"
+        },
+        "C183DA01-9007-4C3D-B27A-086AE48DADA8" : {
+          "name" : "color-palette\/pink\/pink-6"
+        },
+        "C4590060-34BB-47DA-A488-76E04FA2E66A" : {
+          "name" : "color-palette\/grey\/grey-5"
+        },
+        "51E50A8A-E063-40CF-9216-038CD1582984" : {
+          "name" : "color-palette\/violet\/violet-5"
+        },
+        "F04A775D-AA1A-4EED-8598-4BB02F235E41" : {
+          "name" : "color-palette\/indigo\/indigo-2"
+        },
+        "292DA177-67A6-48AE-BC73-07E59AF085EC" : {
+          "name" : "color-palette\/blue\/blue-7"
+        },
+        "C76D5D28-BF3C-4732-9643-3890E1116F84" : {
+          "name" : "color-palette\/white"
+        },
+        "EC885678-ADAE-48D3-AC60-D8EFABAA7BF0" : {
+          "name" : "color-palette\/grey\/grey-4"
+        },
+        "FA3E194A-7AEA-46FB-897B-F55B150862EB" : {
+          "name" : "color-palette\/lime\/lime-2"
+        },
+        "91E54D2B-95A4-4B19-A370-04E076F92FE2" : {
+          "name" : "color-palette\/cyan\/cyan-7"
+        },
+        "BF5EE08B-668D-4990-8503-95D80F565E44" : {
+          "name" : "color-palette\/yellow\/yellow-6"
+        },
+        "A47E14F2-15DC-43DC-B34A-AA0A0899B724" : {
+          "name" : "color-palette\/cyan\/cyan-2"
+        },
+        "A93D0434-34C3-4095-B066-CE88F74D8C14" : {
+          "name" : "color-palette\/grey\/grey-9"
+        },
+        "B250F445-9691-4B06-8691-D466680C8FBC" : {
+          "name" : "color-palette\/lime\/lime-4"
+        },
+        "5A39AE67-66C2-4008-9954-A5886817D919" : {
+          "name" : "color-palette\/green\/green-9"
+        },
+        "B2B7BD9C-E140-492D-8D2B-FD2FCF56C11E" : {
+          "name" : "color-palette\/indigo\/indigo-8"
+        },
+        "C8D20ECB-583D-45C4-B58D-514BE1D30B6D" : {
+          "name" : "color-palette\/violet\/violet-3"
+        },
+        "DBCBEDDA-B9EC-4C26-8BB2-593835557A83" : {
+          "name" : "color-palette\/pink\/pink-3"
+        },
+        "A3D8ECFE-C630-4D8E-8A51-8B51045235E6" : {
+          "name" : "color-palette\/pink\/pink-4"
+        },
+        "779DADC6-0F5F-4806-95EC-2A4875C27157" : {
+          "name" : "color-palette\/lime\/lime-1"
+        },
+        "E0F1CBB9-2D45-4E74-BAFD-6083DF5D8A5A" : {
+          "name" : "color-palette\/violet\/violet-2"
+        },
+        "D33D4650-8194-4DFC-9EDD-D033E149F9BC" : {
+          "name" : "color-palette\/blue\/blue-2"
+        }
+      }
+    },
     "8387E4DF-2662-4447-AD77-E102BB20D953" : {
       "name" : "🔤 Text",
       "artboards" : {
@@ -37,5 +347,32 @@
         }
       }
     }
-  }
+  },
+  "version" : 112,
+  "fonts" : [
+    "MicrosoftYaHei",
+    "MicrosoftYaHei-Bold",
+    "PingFangHK-Semibold",
+    "Roboto-Bold",
+    "Gotham-Bold",
+    "Roboto-Regular"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67048,
+    "appVersion" : "52.1",
+    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67048"
+  ],
+  "appVersion" : "52.1",
+  "build" : 67048
 }

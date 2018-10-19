@@ -1,7 +1,5066 @@
 {
   "layerStyles" : {
     "objects" : [
-
+      {
+        "do_objectID" : "677780E5-69E9-4592-A499-65F065ADBD0A",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.40784313725490201,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.57647058823529407,
+                "green" : 0.45882352941176469
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-4"
+      },
+      {
+        "do_objectID" : "ED65ADDA-7305-46A5-A7DB-1A682435C7B8",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.50196078431372548,
+                "green" : 0.26666666666666672
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-8"
+      },
+      {
+        "do_objectID" : "44318CF8-DA4E-4CAB-81FD-614041129305",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.46274509803921571,
+                "green" : 0.69803921568627447
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-6"
+      },
+      {
+        "do_objectID" : "7827389B-7005-4B64-8162-B708D66CED9D",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.66274509803921566
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-5"
+      },
+      {
+        "do_objectID" : "9D13BD68-8ACD-42D6-BF33-0244818B4020",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.1176470588235294,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1647058823529412,
+                "green" : 0.13333333333333339
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/black"
+      },
+      {
+        "do_objectID" : "E1AEAEE2-EBD0-4AC0-A08A-9B5E519E6E66",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.80000000000000004,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.52941176470588236
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-7"
+      },
+      {
+        "do_objectID" : "CB48D36E-6A97-41BE-9101-8ADDB47C752C",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.95294117647058818,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1176470588235294,
+                "green" : 0.1176470588235294
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-6"
+      },
+      {
+        "do_objectID" : "3E1B1196-8570-4260-967F-C7A32FF21C18",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.69803921568627447,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.78431372549019607,
+                "green" : 0.72549019607843135
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-2"
+      },
+      {
+        "do_objectID" : "441427AC-2BE6-4A2E-A0E8-CEE711AD02F7",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.96078431372549022,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.6196078431372547,
+                "green" : 0.10196078431372541
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-3"
+      },
+      {
+        "do_objectID" : "AD2DB9F6-CC2E-49FB-ACCD-B3ED0821353E",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.1019607843137255,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.57647058823529351
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-3"
+      },
+      {
+        "do_objectID" : "614A0566-F05D-497A-B421-8B2E5247DE4C",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.53333333333333333,
+                "green" : 0.1137254901960785
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-8"
+      },
+      {
+        "do_objectID" : "F98FF1A3-5141-4189-BAC5-1F39EF5E720D",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.33333333333333331,
+                "green" : 0.070588235294117688
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-9"
+      },
+      {
+        "do_objectID" : "63D6AAD9-F2D9-4E1E-908B-253DB7EC5E21",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.83137254901960767,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.003921568627450965,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-4"
+      },
+      {
+        "do_objectID" : "8BE744C6-B059-4FC7-9FD8-002CF2D11D8D",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.59607843137254901,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.0039215686274509604,
+                "green" : 0.48627450980392151
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-9"
+      },
+      {
+        "do_objectID" : "3EA3D797-5029-4DA6-81DA-CF3DD13716F2",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.40000000000000002,
+                "green" : 0.79607843137254897
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-2"
+      },
+      {
+        "do_objectID" : "874CFAC6-3F44-4334-999C-4B1CE2A4A00C",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.96078431372549022,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.30588235294117649,
+                "green" : 0.30588235294117649
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-4"
+      },
+      {
+        "do_objectID" : "787F75A3-9CEF-4CFF-89BB-1645D9E0FF52",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.9882352941176471,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.7803921568627451,
+                "green" : 0.7803921568627451
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-1"
+      },
+      {
+        "do_objectID" : "B19409EC-CE6D-455C-B019-71D05A75767A",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.39215686274509809,
+                "green" : 0.98431372549019602
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-3"
+      },
+      {
+        "do_objectID" : "CDAEA7A8-E0C6-47B0-93BF-8212A0B4D2E1",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.1176470588235294,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1647058823529412,
+                "green" : 0.13333333333333339
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/white"
+      },
+      {
+        "do_objectID" : "BABE6120-688C-4B8B-9B46-BDB2B6C38127",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.82352941176470573,
+                "green" : 0.58431372549019611
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-1"
+      },
+      {
+        "do_objectID" : "B7ABDFD3-57CD-4737-B2AB-286C53E1B725",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.99215686274509807,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.20784313725490189,
+                "green" : 0.84705882352941175
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-5"
+      },
+      {
+        "do_objectID" : "CA95F606-2F6D-41D2-8C23-AFDB479BEE30",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.97254901960784312,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.74117647058823555,
+                "green" : 0.39215686274509809
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-2"
+      },
+      {
+        "do_objectID" : "890D0A58-F335-490B-BA62-D38403FBEF41",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.33333333333333331,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.47450980392156861
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-2"
+      },
+      {
+        "do_objectID" : "03234ED3-9EDB-4BAC-BD46-ECF8984E0E2F",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.06666666666666668,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.95294117647058818,
+                "green" : 0.95294117647058818
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-4"
+      },
+      {
+        "do_objectID" : "87FE5971-26DA-48D3-96B8-39602E345220",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.88235294117647056,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.30588235294117649,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-2"
+      },
+      {
+        "do_objectID" : "5ACA31FD-8627-4152-BC79-8DEBCB7D5AE9",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.12941176470588239,
+                "green" : 0.19607843137254899
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-9"
+      },
+      {
+        "do_objectID" : "FD116734-FE8A-4292-96FF-633EA7E8B3DB",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.59999999999999998,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.396078431372549
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-8"
+      },
+      {
+        "do_objectID" : "3A2680C9-4010-4D9F-899F-D12549F1EEDC",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.41960784313725502,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.50588235294117645
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-8"
+      },
+      {
+        "do_objectID" : "CEBA92C9-A32B-4EF4-AF4E-526D2425BCB2",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.75294117647058834,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.90588235294117647
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-5"
+      },
+      {
+        "do_objectID" : "F7DD6A45-E747-41FF-8AB3-6E0ED4A0A2FC",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.54117647058823526,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.33333333333333343,
+                "green" : 0.02352941176470592
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-8"
+      },
+      {
+        "do_objectID" : "BFFDA650-5A4B-4BA7-BC80-F2625774CEBA",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.023529411764705899,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.49803921568627452,
+                "green" : 0.49803921568627452
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-8"
+      },
+      {
+        "do_objectID" : "B4B747B4-2708-42C8-A328-F594F50A6606",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.3529411764705882,
+                "green" : 0.88627450980392153
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-4"
+      },
+      {
+        "do_objectID" : "4FF9CB2A-E1E6-4356-B4D2-DE3816693D13",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.73333333333333328,
+                "green" : 0.15686274509803921
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-7"
+      },
+      {
+        "do_objectID" : "5B96BBEF-78BB-49B6-AEEC-3F955DEFF9CB",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.53333333333333333,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.63137254901960782
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-1"
+      },
+      {
+        "do_objectID" : "9DF538CB-3CB2-4EE1-97C5-A9C07331DB01",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.54509803921568623,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.97647058823529409,
+                "green" : 0.97647058823529409
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-1"
+      },
+      {
+        "do_objectID" : "8E7237DA-2E31-4AC2-A9E3-2A3307E3F1BA",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.25490196078431371,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.30588235294117649
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-9"
+      },
+      {
+        "do_objectID" : "975A09FB-4C65-463F-BF35-7AD013988E0E",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.28235294117647058,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.40000000000000002,
+                "green" : 0.31764705882352939
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-7"
+      },
+      {
+        "do_objectID" : "426BA696-B528-49EF-9075-7A28751053AE",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.90196078431372551,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.59607843137254901
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-6"
+      },
+      {
+        "do_objectID" : "EA96644F-FE96-42F5-9B52-CEEE867E2D7D",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.20000000000000001,
+                "green" : 0.72941176470588232
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-3"
+      },
+      {
+        "do_objectID" : "C0D58B5C-B24D-4169-B0B5-579016431E5C",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.99215686274509807,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.30588235294117649,
+                "green" : 0.86666666666666681
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-4"
+      },
+      {
+        "do_objectID" : "CFA56A1F-6E3E-4A2A-9239-3990ACF82B95",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.80000000000000004,
+                "green" : 0.96078431372549022
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-1"
+      },
+      {
+        "do_objectID" : "F6D1DB02-0445-40DE-824D-06E61F19B22C",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.07450980392156864,
+                "green" : 0.18431372549019609
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-9"
+      },
+      {
+        "do_objectID" : "72D736D2-0C41-4B53-9E41-0CCF9CF9820A",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.38431372549019599,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.63137254901960793,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-1"
+      },
+      {
+        "do_objectID" : "80CE7AEF-2F66-4C00-BDDB-3F027725C85F",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.035294117647058788,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.68627450980392157,
+                "green" : 0.68627450980392157
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-7"
+      },
+      {
+        "do_objectID" : "9D51E17F-0E57-4532-BB85-D38C663BE6C5",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.97647058823529409,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59215686274509804,
+                "green" : 0.59215686274509804
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-2"
+      },
+      {
+        "do_objectID" : "FAEC7D12-1300-4996-A09A-F5B114BD784A",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.86666666666666681,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.59999999999999998
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-1"
+      },
+      {
+        "do_objectID" : "0627B2B8-32E9-46FD-8507-B082933D69C6",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.40000000000000002,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.26666666666666672
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-9"
+      },
+      {
+        "do_objectID" : "57AC8F29-D8B8-47DB-ADAE-6A5A66B5278F",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.90196078431372551,
+                "green" : 0.47843137254901968
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-5"
+      },
+      {
+        "do_objectID" : "ACE80807-BB7A-4DCA-9F02-A2BA8C29C08B",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.83137254901960778,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.5137254901960786,
+                "green" : 0.035294117647058768
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-6"
+      },
+      {
+        "do_objectID" : "5A16B0F7-7480-44B3-A3CB-A2790E19AD78",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.92941176470588238,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.95294117647058818,
+                "green" : 0.93725490196078431
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-1"
+      },
+      {
+        "do_objectID" : "FFAD49FB-CBD2-4752-AAD4-028369DB9B3B",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.53333333333333355,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.80000000000000004,
+                "green" : 0
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-7"
+      },
+      {
+        "do_objectID" : "79357980-36CA-4BF7-9D2C-66D2337B3B6E",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.96862745098039216,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.40000000000000002,
+                "green" : 0.40000000000000002
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-3"
+      },
+      {
+        "do_objectID" : "D9EF2178-5A25-4581-B745-92B852D7FA1E",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.66274509803921589,
+                "green" : 0.99607843137254903
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-3"
+      },
+      {
+        "do_objectID" : "7CFB8E46-7DA5-4421-B613-EF33794C23D6",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.039215686274509748,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.78431372549019607,
+                "green" : 0.78431372549019607
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-6"
+      },
+      {
+        "do_objectID" : "70D2ADAE-33BC-449C-AD26-FA96A3B1591D",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.96078431372549022,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.6196078431372547,
+                "green" : 0.10196078431372541
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-4"
+      },
+      {
+        "do_objectID" : "0204E5A8-5C8A-45A3-A9B2-DA11E67A9DA5",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.26274509803921581,
+                "green" : 0.396078431372549
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-8"
+      },
+      {
+        "do_objectID" : "E973FE80-2241-4A8A-9326-DF7E22A69C1A",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.60000000000000031,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.90196078431372551,
+                "green" : 0
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-6"
+      },
+      {
+        "do_objectID" : "3ABCF20E-1240-4E89-82A0-E8841B8238B3",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.80392156862745101,
+                "green" : 0.42352941176470588
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-6"
+      },
+      {
+        "do_objectID" : "319F1973-533F-4CDD-BA94-2836D78C4FFF",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1019607843137255,
+                "green" : 0.69803921568627447
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-4"
+      },
+      {
+        "do_objectID" : "FADC9AD5-BFC3-42F4-8D2C-F181B2055795",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.39607843137254889,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.79607843137254908,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-1"
+      },
+      {
+        "do_objectID" : "3F03B1F2-0C7D-4967-8636-3B105AA047FB",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.93333333333333335,
+                "green" : 0.20000000000000009
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-5"
+      },
+      {
+        "do_objectID" : "D61F24BC-456B-4716-872F-34AF18B2E9A8",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.50196078431372548,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.76470588235294112
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-1"
+      },
+      {
+        "do_objectID" : "4620621D-0D99-41EF-A520-C058036C049B",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.91764705882352937,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.050980392156862772,
+                "green" : 0.050980392156862772
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-7"
+      },
+      {
+        "do_objectID" : "7657DF14-98D0-4D33-A4A2-70AC40F1431A",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.99607843137254903,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.60392156862745106,
+                "green" : 0.92549019607843142
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-2"
+      },
+      {
+        "do_objectID" : "CB38BFC2-C032-44FD-ABE5-F00F53AB91DE",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.6705882352941176,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.80784313725490198
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-6"
+      },
+      {
+        "do_objectID" : "A99BAD70-5DE2-4697-B616-7DA7C9B7BD8F",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.99215686274509807,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.007843137254901917,
+                "green" : 0.80784313725490198
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-7"
+      },
+      {
+        "do_objectID" : "5D5B5DDC-736E-4D6B-8487-9C91CD2E3FA4",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.58823529411764708,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.70588235294117641
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-7"
+      },
+      {
+        "do_objectID" : "9ADB0D28-05BC-4FFB-B852-3075805D3CBF",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1529411764705883,
+                "green" : 0.38431372549019599
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-8"
+      },
+      {
+        "do_objectID" : "5F2A3B00-65BA-49CC-BED8-E99B81D397DA",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.19607843137254899,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.72941176470588243,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-2"
+      },
+      {
+        "do_objectID" : "F54E89A5-60E3-4DE0-9ABE-5E1D62265F94",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.30196078431372553,
+                "green" : 0.16078431372549021
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-9"
+      },
+      {
+        "do_objectID" : "421B2712-47EE-4003-8215-758C6357C5DA",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.80000000000000016,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.40000000000000002
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-2"
+      },
+      {
+        "do_objectID" : "9C928667-49D4-42E5-A129-4C7FB43479BE",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.23529411764705879,
+                "green" : 0.58431372549019611
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-7"
+      },
+      {
+        "do_objectID" : "131167E8-3B33-4907-B0CC-D960148EA0B4",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.52941176470588225,
+                "green" : 0.79607843137254897
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-5"
+      },
+      {
+        "do_objectID" : "C6CEBDC1-381A-4EE4-9194-788846368B28",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.18431372549019609,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.50980392156862764,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-2"
+      },
+      {
+        "do_objectID" : "14B7F800-C1CD-44E6-A69C-DBA57B3B6CF3",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.99607843137254903,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.40392156862745099,
+                "green" : 0.88627450980392153
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-3"
+      },
+      {
+        "do_objectID" : "6C4F4953-3FEC-4D21-A915-B38DA53A96B2",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59607843137254879,
+                "green" : 0.89411764705882346
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-4"
+      },
+      {
+        "do_objectID" : "16DBB64F-5A1D-404E-9064-1BB29EDBD72F",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.91764705882352937,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.50588235294117645,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-1"
+      },
+      {
+        "do_objectID" : "F2E36C23-288E-42ED-AC90-93E0881DB09F",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.46274509803921571,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.61960784313725492,
+                "green" : 0.50980392156862742
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-3"
+      },
+      {
+        "do_objectID" : "BDC6F423-1007-460A-983B-D3250CAAA2E7",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.73333333333333328,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.45490196078431372,
+                "green" : 0.031372549019607801
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-7"
+      },
+      {
+        "do_objectID" : "584E5AD2-3CD9-42B1-9D56-E9F9F0FE6A7B",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.34901960784313718,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.21568627450980379,
+                "green" : 0.015686274509803921
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-9"
+      },
+      {
+        "do_objectID" : "8BA62347-78D9-43ED-8F57-8F4F071E7253",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.85098039215686261,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1058823529411764,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-3"
+      },
+      {
+        "do_objectID" : "47742DB4-21DE-4CA0-B9CD-1EE44D9A64BF",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.66666666666666696,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-5"
+      },
+      {
+        "do_objectID" : "7813B15D-9C82-45CF-8B88-1A71BA0C68E0",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.035294117647058809,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.23921568627450979
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-4"
+      },
+      {
+        "do_objectID" : "DAB5AB93-DBED-46C0-8EE5-3452609D57C6",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.40000000000000019,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59999999999999998,
+                "green" : 0
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-8"
+      },
+      {
+        "do_objectID" : "1D598F83-977B-4327-B9EA-0E965BBC7F0B",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.2745098039215686,
+                "green" : 0.68627450980392157
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-6"
+      },
+      {
+        "do_objectID" : "C0F97E18-AE19-4EF9-9610-0E8DBA1E59DE",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.32156862745098042,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.45882352941176469,
+                "green" : 0.36470588235294121
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-6"
+      },
+      {
+        "do_objectID" : "D8FCA9E1-0200-4875-957B-6B53A6053093",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.39607843137254889,
+                "green" : 0.59607843137254901
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-7"
+      },
+      {
+        "do_objectID" : "D9E81AE9-5757-4530-AE1D-D33149926773",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.73333333333333361,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.20000000000000001
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-3"
+      },
+      {
+        "do_objectID" : "B6AB295C-AA0B-4A89-A7B9-9D717886A27E",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.92549019607843142,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.57254901960784321,
+                "green" : 0.039215686274509803
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-5"
+      },
+      {
+        "do_objectID" : "0906B871-8571-4E59-AF5F-53030A11CD12",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.70196078431372544,
+                "green" : 0.37254901960784331
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-7"
+      },
+      {
+        "do_objectID" : "E001FC39-CA50-472D-B008-DD86828D4232",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.792156862745098,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.007843137254901964,
+                "green" : 0.64705882352941169
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-8"
+      },
+      {
+        "do_objectID" : "34693F6D-D8EA-4D15-8841-EF5647ECA32B",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59999999999999998,
+                "green" : 0.8666666666666667
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-1"
+      },
+      {
+        "do_objectID" : "B3D9D884-5A56-483C-8852-5A75E3E50BA4",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.99215686274509807,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1098039215686275,
+                "green" : 0.82745098039215681
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-6"
+      },
+      {
+        "do_objectID" : "C76991D5-25A5-4998-999F-9A44B2D15D1C",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.015686274509803939,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.30588235294117649,
+                "green" : 0.30588235294117649
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-9"
+      },
+      {
+        "do_objectID" : "D8B04854-C8DB-4DAA-9626-928A8A576E5E",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.72941176470588232,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.039215686274509769,
+                "green" : 0.039215686274509769
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-8"
+      },
+      {
+        "do_objectID" : "CA5F29D8-DDE4-4598-8C73-E97362559AC1",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.30196078431372553,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.67058823529411715
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-2"
+      },
+      {
+        "do_objectID" : "B68B65EF-F684-42EB-87C6-D6E41EEDC23F",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.53725490196078429,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.031372549019607857,
+                "green" : 0.031372549019607857
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-9"
+      },
+      {
+        "do_objectID" : "0FAF0492-51D4-4829-BC76-EE0F93B3EEA8",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.52941176470588225
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-4"
+      },
+      {
+        "do_objectID" : "9C755367-F2BB-4E5F-9C6B-A75440BD12A3",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.1333333333333333,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.3176470588235295
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-3"
+      },
+      {
+        "do_objectID" : "5C55A09C-AFC4-4374-AA89-9CA50EB0CDA2",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.20000000000000001,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.28235294117647058,
+                "green" : 0.22352941176470589
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-8"
+      },
+      {
+        "do_objectID" : "4A4A420F-FCFA-4225-909F-DC257B5DA2BA",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.31372549019607843,
+                "green" : 0.78431372549019607
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-5"
+      },
+      {
+        "do_objectID" : "AD58F276-134E-47CD-82B3-DD0D71EAB011",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.16078431372549021,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.96078431372549022,
+                "green" : 0.96078431372549022
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-3"
+      },
+      {
+        "do_objectID" : "6CBDE066-B375-4C3E-80C8-E2FEE9792E17",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.95686274509803915,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.21176470588235291,
+                "green" : 0.21176470588235291
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-5"
+      },
+      {
+        "do_objectID" : "8A94B318-9D2D-481A-ADC0-C6EFEEDE0073",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.043137254901960777,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.8784313725490196,
+                "green" : 0.8784313725490196
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-5"
+      },
+      {
+        "do_objectID" : "F3361B03-5BEB-452B-9AF5-0219C672FBDF",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.26666666666666677,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.40000000000000002,
+                "green" : 0
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-9"
+      },
+      {
+        "do_objectID" : "97F7856E-57F0-402E-8080-2F1766C4CDEF",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.36470588235294121,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.51764705882352935,
+                "green" : 0.41176470588235298
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-5"
+      },
+      {
+        "do_objectID" : "9F9EC9D2-927F-46B8-8D9E-4E7DCED2B4B0",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.70196078431372522,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0.1019607843137255
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-4"
+      },
+      {
+        "do_objectID" : "E65E701D-9EEA-4481-B3DB-3EF88E945AAD",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.35294117647058831,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.96862745098039216,
+                "green" : 0.96862745098039216
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-2"
+      },
+      {
+        "do_objectID" : "156EC709-D1ED-49FC-B2EB-89EE64C4FC6B",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.1176470588235294,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1647058823529412,
+                "green" : 0.13333333333333339
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-9"
+      },
+      {
+        "do_objectID" : "5C2F05E8-77EA-4DC3-B163-2C29FEAE5E9B",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.83529411764705885,
+                "green" : 0.1803921568627451
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-6"
+      }
     ],
     "_class" : "sharedStyleContainer"
   },
@@ -28,6 +5087,11 @@
       "_ref_class" : "MSImmutablePage",
       "_class" : "MSJSONFileReference",
       "_ref" : "pages\/8387E4DF-2662-4447-AD77-E102BB20D953"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/F4AD6B19-DEDD-433B-8E19-1E337D055BC4"
     }
   ],
   "foreignSymbols" : [
@@ -51,18 +5115,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 16.79999923706055,
                 "maximumLineHeight" : 16.79999923706055
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Regular",
-                  "size" : 12
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0.46274509803921571,
@@ -70,6 +5127,13 @@
                 "alpha" : 1,
                 "blue" : 0.61960784313725492,
                 "green" : 0.50980392156862742
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 12
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -92,18 +5156,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 25.60000038146973,
                 "maximumLineHeight" : 25.60000038146973
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Regular",
-                  "size" : 16
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -111,6 +5168,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 16
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -133,18 +5197,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 15.39999961853027,
                 "maximumLineHeight" : 15.39999961853027
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Regular",
-                  "size" : 11
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -152,6 +5209,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 11
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -174,18 +5238,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 25.20000076293945,
                 "maximumLineHeight" : 25.20000076293945
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Bold",
-                  "size" : 18
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -193,6 +5250,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -215,18 +5279,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 22.39999961853027,
                 "maximumLineHeight" : 22.39999961853027
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Bold",
-                  "size" : 16
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -234,6 +5291,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 16
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -256,18 +5320,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 39.200000762939453,
                 "maximumLineHeight" : 39.200000762939453
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Bold",
-                  "size" : 28
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -275,6 +5332,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 28
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -297,18 +5361,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 19.60000038146973,
                 "maximumLineHeight" : 19.60000038146973
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Regular",
-                  "size" : 14
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -316,6 +5373,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -338,18 +5402,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 22.39999961853027,
                 "maximumLineHeight" : 22.39999961853027
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei-Bold",
-                  "size" : 16
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -357,6 +5414,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 16
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -379,18 +5443,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 39.200000762939453,
                 "maximumLineHeight" : 39.200000762939453
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei-Bold",
-                  "size" : 28
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -398,6 +5455,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 28
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -420,18 +5484,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 50.400001525878913,
                 "maximumLineHeight" : 50.400001525878913
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei-Bold",
-                  "size" : 36
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -439,6 +5496,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -461,18 +5525,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 33.599998474121087,
                 "maximumLineHeight" : 33.599998474121087
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei",
-                  "size" : 24
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -480,6 +5537,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -502,18 +5566,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 67.199996948242188,
                 "maximumLineHeight" : 67.199996948242188
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei",
-                  "size" : 48
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -521,6 +5578,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 48
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -543,18 +5607,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 50.400001525878913,
                 "maximumLineHeight" : 50.400001525878913
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Bold",
-                  "size" : 36
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -562,6 +5619,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -584,18 +5648,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 25.20000076293945,
                 "maximumLineHeight" : 25.20000076293945
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Regular",
-                  "size" : 18
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -603,6 +5660,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -625,18 +5689,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 19.60000038146973,
                 "maximumLineHeight" : 19.60000038146973
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Bold",
-                  "size" : 14
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -644,6 +5701,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -666,18 +5730,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 67.199996948242188,
                 "maximumLineHeight" : 67.199996948242188
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Regular",
-                  "size" : 48
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -685,6 +5742,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 48
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -707,18 +5771,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 19.60000038146973,
                 "maximumLineHeight" : 19.60000038146973
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei-Bold",
-                  "size" : 14
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -726,6 +5783,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -748,18 +5812,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 33.599998474121087,
                 "maximumLineHeight" : 33.599998474121087
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Bold",
-                  "size" : 24
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -767,6 +5824,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -789,18 +5853,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 33.599998474121087,
                 "maximumLineHeight" : 33.599998474121087
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Regular",
-                  "size" : 24
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -808,6 +5865,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -830,18 +5894,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 50.400001525878913,
                 "maximumLineHeight" : 50.400001525878913
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "Roboto-Regular",
-                  "size" : 36
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -849,6 +5906,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -871,18 +5935,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 25.20000076293945,
                 "maximumLineHeight" : 25.20000076293945
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei-Bold",
-                  "size" : 18
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -890,6 +5947,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -912,18 +5976,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 33.599998474121087,
                 "maximumLineHeight" : 33.599998474121087
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei-Bold",
-                  "size" : 24
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -931,6 +5988,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -953,18 +6017,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 25.20000076293945,
                 "maximumLineHeight" : 25.20000076293945
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei",
-                  "size" : 18
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -972,6 +6029,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
@@ -994,18 +6058,11 @@
               "paragraphStyle" : {
                 "_class" : "paragraphStyle",
                 "allowsDefaultTighteningForTruncation" : 0,
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "alignment" : 0,
                 "minimumLineHeight" : 50.400001525878913,
                 "maximumLineHeight" : 50.400001525878913
-              },
-              "MSAttributedStringFontAttribute" : {
-                "attributes" : {
-                  "name" : "MicrosoftYaHei",
-                  "size" : 36
-                },
-                "_class" : "fontDescriptor"
               },
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
@@ -1013,6 +6070,13 @@
                 "alpha" : 1,
                 "blue" : 0,
                 "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
               }
             }
           },
