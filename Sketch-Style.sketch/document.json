@@ -1,0 +1,1041 @@
+{
+  "layerStyles" : {
+    "objects" : [
+
+    ],
+    "_class" : "sharedStyleContainer"
+  },
+  "assets" : {
+    "gradients" : [
+
+    ],
+    "colors" : [
+
+    ],
+    "_class" : "assetCollection",
+    "imageCollection" : {
+      "images" : {
+
+      },
+      "_class" : "imageCollection"
+    },
+    "images" : [
+
+    ]
+  },
+  "pages" : [
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/8387E4DF-2662-4447-AD77-E102BB20D953"
+    }
+  ],
+  "foreignSymbols" : [
+
+  ],
+  "currentPageIndex" : 0,
+  "_class" : "document",
+  "foreignLayerStyles" : [
+
+  ],
+  "colorSpace" : 0,
+  "layerTextStyles" : {
+    "objects" : [
+      {
+        "do_objectID" : "7DA9C9C9-1117-4DEB-9E6A-71DDC5FBFBDD",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 16.79999923706055,
+                "maximumLineHeight" : 16.79999923706055
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 12
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.46274509803921571,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.61960784313725492,
+                "green" : 0.50980392156862742
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Metadata"
+      },
+      {
+        "do_objectID" : "FD987208-640A-4B52-88CF-98DE5658853A",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 25.60000038146973,
+                "maximumLineHeight" : 25.60000038146973
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 16
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Article-Text"
+      },
+      {
+        "do_objectID" : "3FE54B28-02AD-4223-BB93-CBEDCA562731",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 15.39999961853027,
+                "maximumLineHeight" : 15.39999961853027
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 11
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Chart annotation"
+      },
+      {
+        "do_objectID" : "D08A27A5-E2AA-4A90-A9E2-D692A172B172",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 25.20000076293945,
+                "maximumLineHeight" : 25.20000076293945
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H4"
+      },
+      {
+        "do_objectID" : "C7B425A5-BD83-46FA-A738-2F577EB8EDF5",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 22.39999961853027,
+                "maximumLineHeight" : 22.39999961853027
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 16
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H5"
+      },
+      {
+        "do_objectID" : "0EF3E98D-8B07-4DB8-B836-1239A77516CA",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 39.200000762939453,
+                "maximumLineHeight" : 39.200000762939453
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 28
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H2"
+      },
+      {
+        "do_objectID" : "8044018D-A020-4E34-81EA-98BAF378FF30",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 19.60000038146973,
+                "maximumLineHeight" : 19.60000038146973
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body-Text"
+      },
+      {
+        "do_objectID" : "5BF0E511-249B-423B-B62A-C8DC547051B8",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 22.39999961853027,
+                "maximumLineHeight" : 22.39999961853027
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 16
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/CN\/H5"
+      },
+      {
+        "do_objectID" : "B094FD67-BB7E-4D8B-87E7-F3F157296CCD",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 39.200000762939453,
+                "maximumLineHeight" : 39.200000762939453
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 28
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/CN\/H2"
+      },
+      {
+        "do_objectID" : "AB03549C-DA25-403F-847F-F787EF303E5A",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 50.400001525878913,
+                "maximumLineHeight" : 50.400001525878913
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/CN\/H1"
+      },
+      {
+        "do_objectID" : "1A95EF63-065D-4543-8667-7E448E8FF71F",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 33.599998474121087,
+                "maximumLineHeight" : 33.599998474121087
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "BigText\/CN\/B3"
+      },
+      {
+        "do_objectID" : "9501F0D0-2784-4BCD-8E78-ADDB2DCA734E",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 67.199996948242188,
+                "maximumLineHeight" : 67.199996948242188
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 48
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "BigText\/CN\/B1"
+      },
+      {
+        "do_objectID" : "CC30F7CD-7CA8-40B2-A24D-18B8ECE8CD5D",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 50.400001525878913,
+                "maximumLineHeight" : 50.400001525878913
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H1"
+      },
+      {
+        "do_objectID" : "B906D83D-75D1-48DA-B673-96B07B7F3E08",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 25.20000076293945,
+                "maximumLineHeight" : 25.20000076293945
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Big Text\/B4"
+      },
+      {
+        "do_objectID" : "E425D9BF-6646-44FB-A584-4422FDB43317",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 19.60000038146973,
+                "maximumLineHeight" : 19.60000038146973
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H6"
+      },
+      {
+        "do_objectID" : "9D23F05E-1C35-4CFA-A5C7-45AE3184A406",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 67.199996948242188,
+                "maximumLineHeight" : 67.199996948242188
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 48
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Big Text\/B1"
+      },
+      {
+        "do_objectID" : "83DFCD2D-B4AB-4358-8FFC-8268CE618304",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 19.60000038146973,
+                "maximumLineHeight" : 19.60000038146973
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/CN\/H6"
+      },
+      {
+        "do_objectID" : "BD6AE28D-32E2-4CE4-953E-A0B2E7B4A035",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 33.599998474121087,
+                "maximumLineHeight" : 33.599998474121087
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H3"
+      },
+      {
+        "do_objectID" : "BF0BB252-7FB1-454E-96DE-796084F49BBF",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 33.599998474121087,
+                "maximumLineHeight" : 33.599998474121087
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Big Text\/B3"
+      },
+      {
+        "do_objectID" : "F348819E-3112-4951-B623-B15C7D82C6F5",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 50.400001525878913,
+                "maximumLineHeight" : 50.400001525878913
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Big Text\/B2"
+      },
+      {
+        "do_objectID" : "DB263CFB-8610-44FF-9899-8504E07F7A05",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 25.20000076293945,
+                "maximumLineHeight" : 25.20000076293945
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/CN\/H4"
+      },
+      {
+        "do_objectID" : "DEF274C8-0B68-482E-87C2-87D50230D539",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 33.599998474121087,
+                "maximumLineHeight" : 33.599998474121087
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/CN\/H3"
+      },
+      {
+        "do_objectID" : "C5E13BCC-1D75-4C18-A641-A813D9A3653F",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 25.20000076293945,
+                "maximumLineHeight" : 25.20000076293945
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "BigText\/CN\/B4"
+      },
+      {
+        "do_objectID" : "236599D3-DD2C-4ED2-8244-2868B4916096",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 50.400001525878913,
+                "maximumLineHeight" : 50.400001525878913
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "BigText\/CN\/B2"
+      }
+    ],
+    "_class" : "sharedTextStyleContainer"
+  },
+  "layerSymbols" : {
+    "objects" : [
+
+    ],
+    "_class" : "symbolContainer"
+  },
+  "do_objectID" : "B117CB31-254E-44A2-8F34-1AFC3685AA51",
+  "foreignTextStyles" : [
+
+  ]
+}
