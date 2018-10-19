@@ -1,5 +1,32 @@
 {
   "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+  "build" : 67048,
+  "version" : 112,
+  "fonts" : [
+    "MicrosoftYaHei",
+    "MicrosoftYaHei-Bold",
+    "PingFangHK-Semibold",
+    "Roboto-Bold",
+    "Gotham-Bold",
+    "Roboto-Regular"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67048,
+    "appVersion" : "52.1",
+    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67048"
+  ],
+  "appVersion" : "52.1",
   "pagesAndArtboards" : {
     "F4AD6B19-DEDD-433B-8E19-1E337D055BC4" : {
       "name" : "🎨 Color",
@@ -347,32 +374,5 @@
         }
       }
     }
-  },
-  "version" : 112,
-  "fonts" : [
-    "MicrosoftYaHei",
-    "MicrosoftYaHei-Bold",
-    "PingFangHK-Semibold",
-    "Roboto-Bold",
-    "Gotham-Bold",
-    "Roboto-Regular"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "build" : 67048,
-    "appVersion" : "52.1",
-    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67048"
-  ],
-  "appVersion" : "52.1",
-  "build" : 67048
+  }
 }

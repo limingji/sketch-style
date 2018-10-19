@@ -1,17 +1,17 @@
 {
-  "F4AD6B19-DEDD-433B-8E19-1E337D055BC4" : {
-    "scrollOrigin" : "{469, 334}",
-    "zoomValue" : 0.25
-  },
   "document" : {
     "pageListHeight" : 110,
     "pageListCollapsed" : 0
   },
-  "8E6E5A1C-7422-44D8-988D-7D3A329695E3" : {
-    "pageListHeight" : -1
-  },
   "8387E4DF-2662-4447-AD77-E102BB20D953" : {
     "scrollOrigin" : "{284, 150}",
     "zoomValue" : 0.5
+  },
+  "8E6E5A1C-7422-44D8-988D-7D3A329695E3" : {
+    "pageListHeight" : -1
+  },
+  "F4AD6B19-DEDD-433B-8E19-1E337D055BC4" : {
+    "scrollOrigin" : "{469, 334}",
+    "zoomValue" : 0.25
   }
 }

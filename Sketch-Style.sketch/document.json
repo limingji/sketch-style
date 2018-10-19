@@ -6101,5 +6101,834 @@
   "do_objectID" : "B117CB31-254E-44A2-8F34-1AFC3685AA51",
   "foreignTextStyles" : [
 
-  ]
+  ],
+  "userInfo" : {
+    "com.invisionlabs.sync" : {
+      "metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo" : {
+      "storage" : {
+        "skipped" : [
+          "16CD1FD0-67E9-4FFD-BC18-0B617D29EF29",
+          "9482CC80-B076-42C3-A81F-3719702CDF03",
+          "8F00BB8B-FFE6-468B-B173-F16185BEA789",
+          "845D02DB-34A6-4648-B0F3-2C74727D865E",
+          "CF0363D8-87FB-4766-9A2D-F553F5A6AD0F",
+          "9D539292-2DAD-4027-8C9E-4CF7930B60A2",
+          "3B6C0007-C883-40FD-9AC6-CFE0B14C49B3",
+          "67824BA4-C568-470D-AEB2-A8C823DF365D",
+          "BD9B05B1-288C-4E55-8190-1349BFA09456",
+          "ECA78AE1-79AC-4DFB-A28D-497E69C3513E",
+          "0E88D5B6-1D9E-422D-B195-16F02B3F8839",
+          "14879A55-3A94-4683-BC82-CBA0EE281735",
+          "8DE8D045-B31E-4687-91BC-97D7151D3553",
+          "8353AF6D-F2B8-4795-82D2-3BFEB88EEBBC",
+          "19297533-819C-4E80-AD07-1872B77B833B",
+          "7ABA7455-8CA2-4660-9823-07D1A65FB57C",
+          "73B352B9-B0E6-4781-9696-DC3B20DA1A66",
+          "D6EA80A1-C231-4D74-BB74-D02BC861583D",
+          "4517A631-793E-416E-95F6-9D4A90240F29",
+          "B277F3AE-B1FC-46DF-B239-474E58AE3B06",
+          "C3FF769E-E210-42F7-9806-AA90336FDAD9",
+          "1E969183-5C48-477D-A7D1-0F96AB4DD12B",
+          "5F14FC1E-2AE0-4584-A9F5-2536FA678EAE",
+          "B0C8AF7E-137F-4825-8D40-E8B9C8A1A966",
+          "2F1C3A86-3EB7-4B83-B9F0-FFFDF5137259",
+          "B332E82D-F3D6-4C4F-B357-CF06B1D72A81",
+          "F7B4B000-382D-4A36-B3C9-420BB7F0D486",
+          "3B823272-F144-4F14-B737-D8E204975F01",
+          "C27E8FCD-7FC6-4E9C-A650-3A3278214CBA",
+          "68557068-4377-4F2B-AA64-E074EFD45339",
+          "AB58F9BE-75A9-44EC-A345-14B8D2DFFA9B",
+          "271FD7EB-BE8C-484D-9348-664EE1A09CD0",
+          "01862BEF-F3D1-48C3-9AD3-52C209F25BBD",
+          "AE8B2BAE-ACE2-4DE2-9F9F-C338CC42B934",
+          "CD4AE04C-CA02-47CE-ADCD-C2A07BED0473",
+          "98AC9E28-0D82-41E6-A869-C31A14A6A1A1",
+          "9BD5779E-F5B3-4033-8353-17CD1EFB117B",
+          "653D8893-958F-4DB3-B1FC-2A97B0E8A647",
+          "7BBB2767-E0C4-475C-9F22-0EF3A6DC15B5",
+          "826B0F85-5A30-42C9-803D-A5C73796677C",
+          "5BE6039C-5939-4319-887E-0A7F94D7E8B0",
+          "3F8E32AA-068D-43FE-9B8D-98C016632AAF",
+          "6BC3E438-6595-400A-8357-1CB24FA6A8E8",
+          "4EE06D85-DE99-4D23-9301-8E88B4C5C639",
+          "95B9F508-0C9B-4CED-B672-FD78F5E669E8",
+          "A702A09F-29C4-4227-9545-F41D37D5FFAD",
+          "4093D789-EBF8-43C6-884B-7D501B931CD9",
+          "A95ABD7A-3511-4E5E-9429-B96ECD9D460A",
+          "C9575B1E-25DA-4E56-B8EF-BA4D79E17896",
+          "62439816-F0B0-4B19-A3F7-6685E2C0AC96",
+          "162F7F2D-9ADB-4F25-A2D9-3D026CD79150",
+          "D68AF885-D820-49E1-8717-63BFE9AFEB27",
+          "775536EF-508B-45AB-AD73-7ACB59443DBA",
+          "A939A13C-58E7-4B0A-885A-74B4C2002C65",
+          "B97E6202-2DF5-442E-A817-8ED664186B24",
+          "208FDBC9-B318-4A17-8476-99A7D217B4D1",
+          "D3CC81EB-B915-4AE9-A672-83533E45E15D",
+          "E452659A-83AA-45E9-81AE-A3D02D7E7A69",
+          "D56231AF-36FB-4CCA-BD78-704BCF90FB64",
+          "D60AD8C4-8CB9-4033-B24D-A80EEAD72CB9",
+          "BBF94465-B8F9-478D-B89D-EF1F0CB83F26",
+          "92B036F1-3B73-48FF-BF07-1FAF4E80D709",
+          "62DD8280-8A15-4B67-9A9F-AD6C6D7BAC3A",
+          "21FF9B27-CE34-430B-B405-36533495E9B6",
+          "1B84ABC8-8D23-4FFF-9A45-737E271A1936",
+          "969B9461-5577-4E98-AA0E-A9EA8F0AA3D2",
+          "811EF596-E288-4540-9577-A99EC6A88E5C",
+          "AA5AD1F4-C6BF-4C37-9F04-AD91833E3020",
+          "15B8EE61-8352-460F-BFD9-597AC91778BE",
+          "A99F1F42-F2C0-4897-A9FF-04C84744BA2A",
+          "56F7B710-94CA-4303-B938-EC532C57F82F",
+          "249DF981-BFC0-4679-82A3-EBF6177E14BE",
+          "496E30D2-EC91-497A-899D-1B579768B0E7",
+          "55D23151-3791-4FA1-851D-AF3EAA3FDCB4",
+          "CCE04869-3D82-4AE7-BB54-4FEA4E1D30A6",
+          "97DA4D10-0A6B-4BDB-A349-F0D71E55F569",
+          "EACE6492-001F-41B4-A96E-279652872335",
+          "5818C718-D598-416B-920C-43F7B988A6AD",
+          "F58B9294-A4CC-4FC8-A311-0CEB79756A40",
+          "CE2EF86B-4E4A-4922-B260-C56072532974",
+          "4F53B805-6B0B-4274-89C1-B442FE651098",
+          "E41155BE-B42F-476C-8C28-3AD8946A9448",
+          "393F65AE-7022-4EE9-AD9B-B08AD79D4BC7",
+          "78DF5D7D-2096-4D5F-8BB6-7EEFC6E32D8C",
+          "59622DB2-84AC-4B07-A5F8-5947D4D9B6EA",
+          "852ECF79-8B39-4E28-9D04-920734396E9C",
+          "AE452799-105B-4CC4-A58E-5A24F9119D14",
+          "BA5C262D-2FC1-447C-A440-A8199F9A9E72",
+          "0E26D795-BCEB-43A1-BD28-4C213BDE537F",
+          "FCD98682-26BA-4E8C-A127-F7464F596E52",
+          "6E9A0BBD-AA60-4319-B5C0-CEE5E14D7D0D",
+          "19BADCF2-7061-4708-85DB-6EECAB7E4C65",
+          "70F0F0B3-DEF4-41D2-B28C-B654D5EA9F82",
+          "FAD2B273-FD50-47D8-BE5B-8E6E48CF1B89",
+          "2692DD56-7C3A-4BB8-B887-F2125BC6B239",
+          "65440DA6-913B-41C6-B48C-675C3F7152D5",
+          "60F69C01-3FC5-48ED-9F55-5CD96E5881FB",
+          "768AA232-B542-44AD-B084-CDD03B7BB27F",
+          "32311280-F696-4447-9816-179992D64700",
+          "409B0314-31A8-4A80-9B3D-F6ED22C3AC9A",
+          "C79908C2-7198-4C6D-A055-0C5BF60012C2",
+          "4C99DB15-178E-4F87-99A3-86213D5962F5",
+          "37D9D60A-A95B-4CD8-B683-5C36851F5556",
+          "FB7BD64B-7F07-4B1A-A36A-BDB91CA12F3A",
+          "0C8D30DB-1D4F-4D83-B050-1093A2501EFC",
+          "DD113ABE-410F-4D5E-8586-2DEC999575F4",
+          "78CA346D-4051-4B8D-8A0C-DF7F925A4D68",
+          "45EACEA7-006D-4BF3-8D5C-3DC5D6F8318C",
+          "F1740A30-F320-4DC2-BB02-2E26E3592E85",
+          "89712B2D-2155-4624-B4CE-3EA49056DD6A"
+        ],
+        "hashes" : {
+          "colors" : {
+
+          },
+          "layerStyles" : {
+
+          },
+          "symbols" : {
+            "B1D3D5CE-4022-444C-84D0-DC7CD4339511" : {
+              "hash" : "9e68bb15f319d3bb8589b054a6236f5d84dd0551",
+              "name" : "color-palette\/teal\/teal-9"
+            },
+            "4989CAAF-BDDF-497F-B1F0-C50F0FE42ED4" : {
+              "hash" : "9e68b631ee4c892668b5c992b63e247f416993a5",
+              "name" : "color-palette\/orange\/orange-3"
+            },
+            "35BAEC17-32D7-48B6-AC82-254DDBA0B35E" : {
+              "hash" : "c5053d8f07e3d80d40b837e64ca506ee7f1010f8",
+              "name" : "color-palette\/green\/green-1"
+            },
+            "328A757B-0C36-48F8-B296-5EF9C7E3029A" : {
+              "hash" : "8dc4c604a78332cc219887e4680042a1edb0732a",
+              "name" : "color-palette\/red\/red-6"
+            },
+            "0EBDFA99-E473-4807-AECA-73509492ECB6" : {
+              "hash" : "bc295c544586e59f36575254729688c6f9fccad5",
+              "name" : "color-palette\/pink\/pink-2"
+            },
+            "C153CDCA-E813-4181-AD92-BA538FD52819" : {
+              "hash" : "d348b9074525b6378649ad775cd3686876f9d86d",
+              "name" : "color-palette\/red\/red-9"
+            },
+            "1344E93C-824F-42FE-B5B6-92AF4D059C1F" : {
+              "hash" : "38b91d33f6ae8326b478354cdbf6b957d8f6afac",
+              "name" : "color-palette\/pink\/pink-9"
+            },
+            "C7244122-C6AC-4E10-8DEA-BA7EA76B594F" : {
+              "hash" : "cb87464a77877c620b2f54ed41f69bd2a46ec1e0",
+              "name" : "color-palette\/indigo\/indigo-3"
+            },
+            "3FE54E43-96F1-411A-8578-3C13EFF0756C" : {
+              "hash" : "98caaa1e779fa33c6e4df5d9d5ab2431e061f885",
+              "name" : "color-palette\/orange\/orange-7"
+            },
+            "C2212B9A-5508-443F-8991-F08AF11F914C" : {
+              "hash" : "fbfd969270652fc91d2d63c1874772962634af5a",
+              "name" : "color-palette\/grey\/grey-3"
+            },
+            "E852EC9D-BCFC-4F8A-A32C-D645F12C9D4F" : {
+              "hash" : "e3d15c7be489edea5b21b51f492ee2095c3d5b1e",
+              "name" : "color-palette\/teal\/teal-7"
+            },
+            "A184B0C0-D701-4D20-B228-C508B68DF571" : {
+              "hash" : "722f31fa6b502e643db4b03749b4dd0f66907c80",
+              "name" : "color-palette\/green\/green-6"
+            },
+            "A1DB622D-B14B-4AF0-8D45-98E9038D5ECF" : {
+              "hash" : "31a3212911df7144b4612f9570eb9de50c101f1b",
+              "name" : "color-palette\/green\/green-8"
+            },
+            "02C28AFA-892F-44C6-BBF5-4E293E744522" : {
+              "hash" : "f44216fff244828dd55ff51db3cf351cfb0ea069",
+              "name" : "color-palette\/blue\/blue-8"
+            },
+            "9D32980B-A897-4E17-9EDB-DCF3B95A5B04" : {
+              "hash" : "5c31a89bcfcc09e2f2af659f75156daf057c842f",
+              "name" : "color-palette\/violet\/violet-8"
+            },
+            "C92AD508-0DC2-4174-AEE3-AEB71D9BCF37" : {
+              "hash" : "a2d4f61285d6847ae2d3cb08125e6a7d194808b8",
+              "name" : "color-palette\/violet\/violet-6"
+            },
+            "DBAE1DDA-0BCA-412B-BAAC-323F82376C1E" : {
+              "hash" : "992dbe950d0127db6cb9888dd84f20106530b9f2",
+              "name" : "color-palette\/cyan\/cyan-5"
+            },
+            "321CC372-71ED-405B-A827-0697E96A0F60" : {
+              "hash" : "df503a8c6c5647b5bf6ac79002ba74c586864f41",
+              "name" : "color-palette\/orange\/orange-8"
+            },
+            "5C1A34B6-9249-4D62-A895-3352713AC248" : {
+              "hash" : "4de73b122254f873c1de6e8b7f8811e2cb4cd924",
+              "name" : "color-palette\/green\/green-5"
+            },
+            "1AF996F4-C406-4497-98C0-12A71AD750A9" : {
+              "hash" : "24620e9af3f4fc5a891e6670f65c398404448373",
+              "name" : "color-palette\/grey\/grey-8"
+            },
+            "8654B155-6C7E-4689-A365-FFE419DA5B89" : {
+              "hash" : "71a4e06f88d386a70f914773e144ab912c0b9d3e",
+              "name" : "color-palette\/teal\/teal-5"
+            },
+            "01977156-11F0-44E9-A768-600188A6AEE0" : {
+              "hash" : "445a8e29dbb7fa824172f0ccf198cfd7d39e3077",
+              "name" : "color-palette\/green\/green-2"
+            },
+            "2B69152A-F2E6-4583-8272-B15E84D203FE" : {
+              "hash" : "94df0f79f06811c77f0d07d5e72bf9bd061174a6",
+              "name" : "color-palette\/lime\/lime-8"
+            },
+            "0F162728-896D-40DA-86AA-9111AEB9200D" : {
+              "hash" : "8f9c3a24bbdc28c9a38d4e518c32a0e5e1a18ec4",
+              "name" : "color-palette\/lime\/lime-9"
+            },
+            "CA33591F-2A30-4E4B-94C7-49AE603B123F" : {
+              "hash" : "de245316b1511c85088ef196d6e98cb6b646271a",
+              "name" : "color-palette\/yellow\/yellow-8"
+            },
+            "AA362619-1549-491A-AF8A-8CD714E02C0C" : {
+              "hash" : "e02a72a3b084b2c0d58a3549c69df4e917ebd444",
+              "name" : "color-palette\/lime\/lime-7"
+            },
+            "6018912A-03D8-4510-9D3B-336AB5DDE04A" : {
+              "hash" : "24ce991fb59c092ba9985213130bb002cf882d9b",
+              "name" : "color-palette\/teal\/teal-1"
+            },
+            "820BD9FB-C280-4CE4-A1EC-22574AFFF0D4" : {
+              "hash" : "24f4ece3d067e1c5b332d83f5903fb7e158b0105",
+              "name" : "color-palette\/orange\/orange-1"
+            },
+            "1F53B6F3-601B-47C6-A7F0-FAB5379557C8" : {
+              "hash" : "1cb1f1c2c593a23ac416e5688e14bcce13656e43",
+              "name" : "color-palette\/indigo\/indigo-7"
+            },
+            "EDA55C87-8B2B-4A39-A50C-D184D5DB6DAA" : {
+              "hash" : "ce8e61fb049330119065e723da1a7b86f4b1198a",
+              "name" : "color-palette\/pink\/pink-8"
+            },
+            "19D47F5C-8CA3-4817-A020-B6D798A1CED1" : {
+              "hash" : "31e52f8562a3f919cd8c36d2b36f2a98a2d09f9a",
+              "name" : "color-palette\/green\/green-4"
+            },
+            "B0BE6B81-E15F-4AC0-8D97-A2A56546B5DD" : {
+              "hash" : "e81c0e667ab1647c5adab57466d93f7e8253fc0a",
+              "name" : "color-palette\/indigo\/indigo-1"
+            },
+            "69348993-E761-4134-B582-7D9165129650" : {
+              "hash" : "fbb3972afdab888cfddbc94f42f52419713f50ea",
+              "name" : "color-palette\/pink\/pink-1"
+            },
+            "B08F0F8A-40D1-4669-937B-5DAE5D397D21" : {
+              "hash" : "5dc02266685d6a5e5538e74430f33f060208d2ff",
+              "name" : "color-palette\/red\/red-2"
+            },
+            "D14E4D8A-A54E-49AF-B100-E0A6B371CC85" : {
+              "hash" : "89327f6ebfbf8b7e601e3fea77c37de46f82ce5a",
+              "name" : "color-palette\/orange\/orange-5"
+            },
+            "F6324BAB-8DAD-49E5-8A4F-AC5E6EEFA832" : {
+              "hash" : "89fbeeaf1bcc6371109774f24fc8b62bb6605d30",
+              "name" : "color-palette\/teal\/teal-4"
+            },
+            "A3D9B9CA-B732-4776-AEA6-02D579FADFD7" : {
+              "hash" : "7035b5fc19e5a3cac1fc7f773aa0185d7fb449ba",
+              "name" : "color-palette\/cyan\/cyan-1"
+            },
+            "C5FA3D39-F19E-4B71-B002-9C7CCD4A8B17" : {
+              "hash" : "8b130f8b4e7426ae530e89edf571b71da8ab8eca",
+              "name" : "color-palette\/indigo\/indigo-6"
+            },
+            "08F6DAB2-7D2B-4561-8722-94BE8EB05423" : {
+              "hash" : "4dcb03a5de64a8be4b1f55ed3bce0d5911e44e7d",
+              "name" : "color-palette\/yellow\/yellow-5"
+            },
+            "2A1F597F-EE05-41FF-B41B-470FF6865DE0" : {
+              "hash" : "4e9922f85483a3d9f545e69112958620e729b233",
+              "name" : "color-palette\/violet\/violet-9"
+            },
+            "3275E43E-DCA3-4863-9267-11B9958F3020" : {
+              "hash" : "8bc632dc3ce11d653363b4f169e4a0f7bb5762e4",
+              "name" : "color-palette\/blue\/blue-4"
+            },
+            "2FF9184E-51DA-4CC2-8583-E721B4302E24" : {
+              "hash" : "c16c044fa26d1a794665d9add6be29842d1844da",
+              "name" : "color-palette\/violet\/violet-4"
+            },
+            "36132485-B11B-48C7-8C95-76DB70659435" : {
+              "hash" : "23f61df6934089b19a507960430e28c7881f9a26",
+              "name" : "color-palette\/blue\/blue-9"
+            },
+            "38C4AD48-68BF-4702-88A8-18A27020E8E4" : {
+              "hash" : "faabc2f8045bed0791a7e3e9e92a1978bc1aa087",
+              "name" : "color-palette\/yellow\/yellow-2"
+            },
+            "450E942F-B854-4F6B-8936-B83624387F7F" : {
+              "hash" : "790099a8e142fe42a7108c9915d2322208727835",
+              "name" : "color-palette\/yellow\/yellow-1"
+            },
+            "23E5AEB3-52AC-48B2-A230-8655D4BABBFA" : {
+              "hash" : "7ff95dc9efe1921aed7e0a58637bf393d9d028bc",
+              "name" : "color-palette\/blue\/blue-6"
+            },
+            "05A36103-4F16-43AE-B431-A44ADD057764" : {
+              "hash" : "5ffb2dc8818da212d628d825ca0df1cee503cb45",
+              "name" : "color-palette\/green\/green-3"
+            },
+            "57EFDD16-910C-47DD-AD47-15E073101423" : {
+              "hash" : "d7ce71a10cf4820c698512e8d592508f88e0be19",
+              "name" : "color-palette\/yellow\/yellow-7"
+            },
+            "F632E008-1868-474B-BA46-FF1EB5A494B5" : {
+              "hash" : "b5878efb6ca49815d68be7999db33e0e65af8d38",
+              "name" : "color-palette\/violet\/violet-1"
+            },
+            "4269DCD4-3BF1-4449-951E-20E929E0E41C" : {
+              "hash" : "4f555c537bafc240ea33218a13eb16d7d348edd8",
+              "name" : "color-palette\/black"
+            },
+            "1C60EDAA-E374-4D29-A949-9360F25AFEEC" : {
+              "hash" : "675de7c6515077c002c08ff58dbee3bdee078add",
+              "name" : "color-palette\/red\/red-5"
+            },
+            "716504E3-1AFE-44FD-8AEE-B0B070A9A91F" : {
+              "hash" : "2b4943be1a244931a62f539634497b6b03431fce",
+              "name" : "color-palette\/lime\/lime-6"
+            },
+            "EC208F7E-AA0F-4F0E-BF62-5B4D762E0AE2" : {
+              "hash" : "fca495b4f8451b558861a38c8695498693fbba10",
+              "name" : "color-palette\/cyan\/cyan-6"
+            },
+            "3E823FB3-5B58-452A-94C3-8404A9F5AA44" : {
+              "hash" : "cd0cdbae262f989b49fdaea40c7aa6cc07f0d3f9",
+              "name" : "color-palette\/red\/red-8"
+            },
+            "590D3DAF-B849-4725-85F1-293DAFA78B27" : {
+              "hash" : "bfda1b027b79193cd1d6f82d0ff2d7cc7ba1c87b",
+              "name" : "color-palette\/orange\/orange-9"
+            },
+            "9BA2F9A8-738E-4BA7-93DA-09B64910CC4D" : {
+              "hash" : "048496076727429b9c2bec55ca2f8f118d794150",
+              "name" : "color-palette\/violet\/violet-7"
+            },
+            "CBDD59B4-7D7D-4486-AB97-5CAC0D69C2CD" : {
+              "hash" : "72bc9ff649eb81375509010807c931aeebcddb45",
+              "name" : "color-palette\/cyan\/cyan-3"
+            },
+            "B7B1B9A0-B0B7-4DE6-A88B-23C115BAB7A7" : {
+              "hash" : "befbff84de083034cb0a3c257046d45cba89e5b4",
+              "name" : "color-palette\/pink\/pink-5"
+            },
+            "4D94BC19-A1CB-488F-AB3A-7AA973538FB7" : {
+              "hash" : "e8aca839ef9927329a68e93fce4335e3bac4de22",
+              "name" : "color-palette\/teal\/teal-8"
+            },
+            "64B31A6D-6384-444B-B90D-1D2190A27CBD" : {
+              "hash" : "e51ab091eb4cdb0be7aa9673015fefb22ff92929",
+              "name" : "color-palette\/yellow\/yellow-9"
+            },
+            "AA618711-65CF-481C-953C-E7B7F39D6E44" : {
+              "hash" : "dfb08a3b5a81c047f6fc0cad139c3b946fc26d54",
+              "name" : "color-palette\/red\/red-1"
+            },
+            "91281840-5452-48BD-99CE-8A8DCABA19F7" : {
+              "hash" : "5cf18e317bf9dac57e08dab5ddbd01d096300c4b",
+              "name" : "color-palette\/red\/red-3"
+            },
+            "41448D8F-0F00-40FC-8079-E044A8662F91" : {
+              "hash" : "72039eb1d54193e5425fc95fb2d58a838d7af582",
+              "name" : "color-palette\/blue\/blue-1"
+            },
+            "1BC73153-2A20-461F-BB63-BD7B4FC77E51" : {
+              "hash" : "725628861d98d2c04a395fb49d2d094ece30a0eb",
+              "name" : "color-palette\/pink\/pink-7"
+            },
+            "C12DADA1-1BED-4EF1-AA61-58C483BAA877" : {
+              "hash" : "5a280fcdb013c79b856987a3e4b6c20cf95a5d75",
+              "name" : "color-palette\/cyan\/cyan-4"
+            },
+            "AD343C68-B11E-44ED-B23D-D4760B2F72D9" : {
+              "hash" : "2dfaa1505d1ea3ed31d7431950dde92e2e53116f",
+              "name" : "color-palette\/yellow\/yellow-4"
+            },
+            "187AD1C8-222A-430E-A446-291FD63FA3BE" : {
+              "hash" : "b2bbfb4f3e2cadb360733cb5780661e5b95c4aa1",
+              "name" : "color-palette\/grey\/grey-1"
+            },
+            "BA404E8C-CB2C-41B4-84DF-A4EC74687ED9" : {
+              "hash" : "fe4ec2b783c4b29e8ad1a65472e2bd625ead655f",
+              "name" : "color-palette\/grey\/grey-7"
+            },
+            "2F42EBB1-2FB1-4342-BC88-32FB49123E77" : {
+              "hash" : "1c81cc6647866caa7f2882a2715434a853780585",
+              "name" : "color-palette\/red\/red-7"
+            },
+            "AA0451B4-AF4C-4CEE-9F72-23F7FF71D35C" : {
+              "hash" : "445c3c4455296606330b32398718377991736dff",
+              "name" : "color-palette\/indigo\/indigo-4"
+            },
+            "9E9D16F4-2787-4C3B-B781-D841BB856A50" : {
+              "hash" : "b0a235ce522a9e766c2f09d9ee5876dc329ec3b2",
+              "name" : "color-palette\/cyan\/cyan-8"
+            },
+            "77290100-3C02-4041-BD4C-1F55B26807D5" : {
+              "hash" : "a9b45aba436eeb2f69e407ebb63782f1a82b01e6",
+              "name" : "color-palette\/yellow\/yellow-3"
+            },
+            "09666B45-A75D-4B82-AB43-38C8B8D470F5" : {
+              "hash" : "63a8dc56ddaa77e3dd63a05038edebfac3615769",
+              "name" : "color-palette\/green\/green-7"
+            },
+            "0D4CEA10-D175-49BE-852B-56479D094EA9" : {
+              "hash" : "cb840b5872f56bb86f96f8d270b9ae6f254a2d14",
+              "name" : "color-palette\/blue\/blue-3"
+            },
+            "2DDDB38D-06E3-43D4-B637-A7FA9055A687" : {
+              "hash" : "b40b5c1a4718279dd728a93574bdfb776a6ec3a9",
+              "name" : "color-palette\/grey\/grey-6"
+            },
+            "27F8E8E5-EF83-4E75-B46F-90F2AEDE7919" : {
+              "hash" : "c5dd0348cb161b5718789e4189b9a9543fd6db5a",
+              "name" : "color-palette\/teal\/teal-2"
+            },
+            "319AF5F5-44F2-464A-9FB2-4228FA9E39FF" : {
+              "hash" : "0e77770517bd682aa191e4b29644acb4bc8b123c",
+              "name" : "color-palette\/blue\/blue-5"
+            },
+            "A98391E9-6ABA-42FA-9945-E541902037BD" : {
+              "hash" : "3c5407d98572a1c0f48ad4d82f7d6ae120cad381",
+              "name" : "color-palette\/orange\/orange-4"
+            },
+            "0E9A68C7-F5F4-4FDB-BFC6-11759632D7A7" : {
+              "hash" : "56c387a6a4b4977c868c87e6851cdaf75b215a8e",
+              "name" : "color-palette\/orange\/orange-6"
+            },
+            "FFBCA864-28CB-4FCC-97EA-5145D965BA47" : {
+              "hash" : "613aa54d9e9a157d4f3d613e674fe312f87f4ee2",
+              "name" : "color-palette\/grey\/grey-2"
+            },
+            "AA8770A7-9D96-46B8-AE2D-35EB43399E2A" : {
+              "hash" : "d0e24e71f144d2d6e21a743f7f2437e388436b01",
+              "name" : "color-palette\/indigo\/indigo-5"
+            },
+            "3D2D97E7-DB4B-4424-A143-1E3D5E6ACF96" : {
+              "hash" : "4767c8815ec8e494b4d0003aca4ae79ad0cc9fff",
+              "name" : "color-palette\/lime\/lime-3"
+            },
+            "3FB09A39-C0CF-4CAA-942A-1DC201FC9E01" : {
+              "hash" : "0e6f9d8f1e67a9d62bf85d94a7eb7197b8894c07",
+              "name" : "color-palette\/orange\/orange-2"
+            },
+            "4F1AD490-D259-408A-BE30-F4D5F21D5863" : {
+              "hash" : "bf14117e5eb7e95123e5b20f9714fb68cf928932",
+              "name" : "color-palette\/lime\/lime-5"
+            },
+            "5110BA94-F090-405A-8D9A-4127DD5AAD70" : {
+              "hash" : "dd796189769dbdafe3ed46c9abf8e4a3f44c7a03",
+              "name" : "color-palette\/teal\/teal-3"
+            },
+            "C21160BF-04D2-48AD-9BD6-E4CC4E19C456" : {
+              "hash" : "39381c0715042a6762a3573fe28c3f2bd46e5401",
+              "name" : "color-palette\/cyan\/cyan-9"
+            },
+            "5445F97F-F0F0-4CF7-9964-64856CC64F49" : {
+              "hash" : "4c6d445844dd644fb92fc23c020a843d360ce833",
+              "name" : "color-palette\/indigo\/indigo-9"
+            },
+            "76C75A77-DCC0-4BAB-AFDC-CB11B63D2C6E" : {
+              "hash" : "94751a811098dc60e31375ee3f7bbd1f582d2388",
+              "name" : "color-palette\/teal\/teal-6"
+            },
+            "A38FE6A2-8B82-40DF-B2BD-3BD29D906C1A" : {
+              "hash" : "b348db35687e7313844bb66bb8f21da8750dc9d6",
+              "name" : "color-palette\/red\/red-4"
+            },
+            "C183DA01-9007-4C3D-B27A-086AE48DADA8" : {
+              "hash" : "23422a1273d0392a4391db65a550f22e31533bbd",
+              "name" : "color-palette\/pink\/pink-6"
+            },
+            "C4590060-34BB-47DA-A488-76E04FA2E66A" : {
+              "hash" : "ae2b83ba3ad33c5f9d4128dee21aaaa1ff7b1367",
+              "name" : "color-palette\/grey\/grey-5"
+            },
+            "51E50A8A-E063-40CF-9216-038CD1582984" : {
+              "hash" : "72c78909092bf49f5ebd4dc1a26de538a5c3696d",
+              "name" : "color-palette\/violet\/violet-5"
+            },
+            "F04A775D-AA1A-4EED-8598-4BB02F235E41" : {
+              "hash" : "4681bac4b0100d0eaea75b21d1a7d41231858c48",
+              "name" : "color-palette\/indigo\/indigo-2"
+            },
+            "292DA177-67A6-48AE-BC73-07E59AF085EC" : {
+              "hash" : "07dd88b8e6c6b349c4f235b75188903c5c3dc3c1",
+              "name" : "color-palette\/blue\/blue-7"
+            },
+            "C76D5D28-BF3C-4732-9643-3890E1116F84" : {
+              "hash" : "dfd734d2276f30508f48cccf65d568ced159a997",
+              "name" : "color-palette\/white"
+            },
+            "EC885678-ADAE-48D3-AC60-D8EFABAA7BF0" : {
+              "hash" : "74a0989fc48c050f4a5caa32adc3d52d4ffe63d6",
+              "name" : "color-palette\/grey\/grey-4"
+            },
+            "FA3E194A-7AEA-46FB-897B-F55B150862EB" : {
+              "hash" : "cd82a3194ea89ccdf0efd27c6dcdd9d160dd8de2",
+              "name" : "color-palette\/lime\/lime-2"
+            },
+            "91E54D2B-95A4-4B19-A370-04E076F92FE2" : {
+              "hash" : "bd0310c42f84a96589a29254d0f5b2b7b814ed7a",
+              "name" : "color-palette\/cyan\/cyan-7"
+            },
+            "BF5EE08B-668D-4990-8503-95D80F565E44" : {
+              "hash" : "54cdad63b49e115083420460deb735bc1e35012c",
+              "name" : "color-palette\/yellow\/yellow-6"
+            },
+            "A47E14F2-15DC-43DC-B34A-AA0A0899B724" : {
+              "hash" : "ec67234036800c78157b68eff9869c768e7a2560",
+              "name" : "color-palette\/cyan\/cyan-2"
+            },
+            "A93D0434-34C3-4095-B066-CE88F74D8C14" : {
+              "hash" : "96cbb9faaa46b2d1874024a4a6c7ea77ee5f8b56",
+              "name" : "color-palette\/grey\/grey-9"
+            },
+            "B250F445-9691-4B06-8691-D466680C8FBC" : {
+              "hash" : "325f7072fd5706cb07111674e2723281f7ce0122",
+              "name" : "color-palette\/lime\/lime-4"
+            },
+            "5A39AE67-66C2-4008-9954-A5886817D919" : {
+              "hash" : "e33f9169d2105c14bdefd91bace61b300781c0a9",
+              "name" : "color-palette\/green\/green-9"
+            },
+            "B2B7BD9C-E140-492D-8D2B-FD2FCF56C11E" : {
+              "hash" : "7d9eca7c4128586ee55baf8c678602c309860619",
+              "name" : "color-palette\/indigo\/indigo-8"
+            },
+            "C8D20ECB-583D-45C4-B58D-514BE1D30B6D" : {
+              "hash" : "1494f8562993ebdf3eb0e0bd7a65599ead962baa",
+              "name" : "color-palette\/violet\/violet-3"
+            },
+            "DBCBEDDA-B9EC-4C26-8BB2-593835557A83" : {
+              "hash" : "21cfc9bf899c0ccd02e0725d1e2466c03b219c05",
+              "name" : "color-palette\/pink\/pink-3"
+            },
+            "A3D8ECFE-C630-4D8E-8A51-8B51045235E6" : {
+              "hash" : "1c97ac0c481056412ed79b56275ec7de0ddb6339",
+              "name" : "color-palette\/pink\/pink-4"
+            },
+            "779DADC6-0F5F-4806-95EC-2A4875C27157" : {
+              "hash" : "355000d89ee7d632c6e30e7938d66ced0c5858af",
+              "name" : "color-palette\/lime\/lime-1"
+            },
+            "E0F1CBB9-2D45-4E74-BAFD-6083DF5D8A5A" : {
+              "hash" : "72cd0d3cfc34a98eeb10d6d519a0df5098e319ef",
+              "name" : "color-palette\/violet\/violet-2"
+            },
+            "D33D4650-8194-4DFC-9EDD-D033E149F9BC" : {
+              "hash" : "46e5b5ab0206866bfd49dde4dba8d93ea9ad1552",
+              "name" : "color-palette\/blue\/blue-2"
+            }
+          },
+          "textStyles" : {
+            "9D23F05E-1C35-4CFA-A5C7-45AE3184A406" : {
+              "hash" : "584f4bbd75abcfe5871a31b07cb76b5ffe436b49",
+              "name" : "Big Text\/B1"
+            },
+            "236599D3-DD2C-4ED2-8244-2868B4916096" : {
+              "hash" : "8e071f2b4c58e7c6ee7488a975afce6e383c3a07",
+              "name" : "BigText\/CN\/B2"
+            },
+            "E425D9BF-6646-44FB-A584-4422FDB43317" : {
+              "hash" : "ff1473fa099723857cd0e1c7ea0cefed307717c2",
+              "name" : "Headline\/H6"
+            },
+            "FD987208-640A-4B52-88CF-98DE5658853A" : {
+              "hash" : "4eecb3d3add4eb5775907743c195452afeed7b0c",
+              "name" : "Article-Text"
+            },
+            "BF0BB252-7FB1-454E-96DE-796084F49BBF" : {
+              "hash" : "7c715ed213637c27c71b6bef83f9b6464558b2c6",
+              "name" : "Big Text\/B3"
+            },
+            "8044018D-A020-4E34-81EA-98BAF378FF30" : {
+              "hash" : "c9fd0616fbb5907cc21eb3b451b4ff8ef435008b",
+              "name" : "Body-Text"
+            },
+            "83DFCD2D-B4AB-4358-8FFC-8268CE618304" : {
+              "hash" : "8dbd27d8dc2fee3a973d4910485dfd56fe18e7de",
+              "name" : "Headline\/CN\/H6"
+            },
+            "B094FD67-BB7E-4D8B-87E7-F3F157296CCD" : {
+              "hash" : "9b42488a01347005ee9d6195a9d6cf0e750fd813",
+              "name" : "Headline\/CN\/H2"
+            },
+            "BD6AE28D-32E2-4CE4-953E-A0B2E7B4A035" : {
+              "hash" : "def30c1d1326ada7874982d97f5841460dad9897",
+              "name" : "Headline\/H3"
+            },
+            "D08A27A5-E2AA-4A90-A9E2-D692A172B172" : {
+              "hash" : "4bf3e29f2f7cbe3735c69ec4190911c5fd06f0bc",
+              "name" : "Headline\/H4"
+            },
+            "0EF3E98D-8B07-4DB8-B836-1239A77516CA" : {
+              "hash" : "94bd7b654901b4b82b308d7f3f8e07915948d297",
+              "name" : "Headline\/H2"
+            },
+            "AB03549C-DA25-403F-847F-F787EF303E5A" : {
+              "hash" : "0a8aef09e0afa86e67dc1396f16557d093466564",
+              "name" : "Headline\/CN\/H1"
+            },
+            "1A95EF63-065D-4543-8667-7E448E8FF71F" : {
+              "hash" : "003fb8ccc4b1510e12504239d4ea40567276ce83",
+              "name" : "BigText\/CN\/B3"
+            },
+            "B906D83D-75D1-48DA-B673-96B07B7F3E08" : {
+              "hash" : "a8cedac405f6dd3ca6a6e55729b50b526d294870",
+              "name" : "Big Text\/B4"
+            },
+            "DB263CFB-8610-44FF-9899-8504E07F7A05" : {
+              "hash" : "f17849078454b14f299032bbe0500e2ee5827ed4",
+              "name" : "Headline\/CN\/H4"
+            },
+            "7DA9C9C9-1117-4DEB-9E6A-71DDC5FBFBDD" : {
+              "hash" : "70ded7e3d3c4aaae72e75eeec38dab5149348204",
+              "name" : "Metadata"
+            },
+            "5BF0E511-249B-423B-B62A-C8DC547051B8" : {
+              "hash" : "1f69edc43216280c4bad7df2a8f54036077459ef",
+              "name" : "Headline\/CN\/H5"
+            },
+            "C7B425A5-BD83-46FA-A738-2F577EB8EDF5" : {
+              "hash" : "9cfdd1dbc13c4b2a70f01d5ef1ac687858d6c186",
+              "name" : "Headline\/H5"
+            },
+            "DEF274C8-0B68-482E-87C2-87D50230D539" : {
+              "hash" : "793698b5995980bb6ad93c2ec0da3cb425794b39",
+              "name" : "Headline\/CN\/H3"
+            },
+            "3FE54B28-02AD-4223-BB93-CBEDCA562731" : {
+              "hash" : "be0812214604de1d8e0eea469e1cdf321e5b7e61",
+              "name" : "Chart annotation"
+            },
+            "F348819E-3112-4951-B623-B15C7D82C6F5" : {
+              "hash" : "958ece810278c2e7a4004aa157447dc967c61ccd",
+              "name" : "Big Text\/B2"
+            },
+            "9501F0D0-2784-4BCD-8E78-ADDB2DCA734E" : {
+              "hash" : "d13aabb03ca10120c80d7c95c748dae7af4556b8",
+              "name" : "BigText\/CN\/B1"
+            },
+            "C5E13BCC-1D75-4C18-A641-A813D9A3653F" : {
+              "hash" : "4984f99655f759280fedf03524f750464e2e108d",
+              "name" : "BigText\/CN\/B4"
+            },
+            "CC30F7CD-7CA8-40B2-A24D-18B8ECE8CD5D" : {
+              "hash" : "f198c51f6a96d9766bd364e8899cc4f2e7edc7d8",
+              "name" : "Headline\/H1"
+            }
+          },
+          "layers" : {
+
+          }
+        },
+        "sync" : {
+          "colors" : {
+
+          },
+          "layerStyles" : {
+            "8F00BB8B-FFE6-468B-B173-F16185BEA789" : "14B7F800-C1CD-44E6-A69C-DBA57B3B6CF3",
+            "9482CC80-B076-42C3-A81F-3719702CDF03" : "FAEC7D12-1300-4996-A09A-F5B114BD784A",
+            "F1740A30-F320-4DC2-BB02-2E26E3592E85" : "FD116734-FE8A-4292-96FF-633EA7E8B3DB",
+            "845D02DB-34A6-4648-B0F3-2C74727D865E" : "D9EF2178-5A25-4581-B745-92B852D7FA1E",
+            "CF0363D8-87FB-4766-9A2D-F553F5A6AD0F" : "AD58F276-134E-47CD-82B3-DD0D71EAB011",
+            "9D539292-2DAD-4027-8C9E-4CF7930B60A2" : "16DBB64F-5A1D-404E-9064-1BB29EDBD72F",
+            "3B6C0007-C883-40FD-9AC6-CFE0B14C49B3" : "B6AB295C-AA0B-4A89-A7B9-9D717886A27E",
+            "67824BA4-C568-470D-AEB2-A8C823DF365D" : "BFFDA650-5A4B-4BA7-BC80-F2625774CEBA",
+            "BD9B05B1-288C-4E55-8190-1349BFA09456" : "E001FC39-CA50-472D-B008-DD86828D4232",
+            "ECA78AE1-79AC-4DFB-A28D-497E69C3513E" : "421B2712-47EE-4003-8215-758C6357C5DA",
+            "0E88D5B6-1D9E-422D-B195-16F02B3F8839" : "C76991D5-25A5-4998-999F-9A44B2D15D1C",
+            "14879A55-3A94-4683-BC82-CBA0EE281735" : "D61F24BC-456B-4716-872F-34AF18B2E9A8",
+            "73B352B9-B0E6-4781-9696-DC3B20DA1A66" : "CFA56A1F-6E3E-4A2A-9239-3990ACF82B95",
+            "19297533-819C-4E80-AD07-1872B77B833B" : "614A0566-F05D-497A-B421-8B2E5247DE4C",
+            "7ABA7455-8CA2-4660-9823-07D1A65FB57C" : "7CFB8E46-7DA5-4421-B613-EF33794C23D6",
+            "8353AF6D-F2B8-4795-82D2-3BFEB88EEBBC" : "426BA696-B528-49EF-9075-7A28751053AE",
+            "8DE8D045-B31E-4687-91BC-97D7151D3553" : "0627B2B8-32E9-46FD-8507-B082933D69C6",
+            "D6EA80A1-C231-4D74-BB74-D02BC861583D" : "7657DF14-98D0-4D33-A4A2-70AC40F1431A",
+            "4517A631-793E-416E-95F6-9D4A90240F29" : "B3D9D884-5A56-483C-8852-5A75E3E50BA4",
+            "B277F3AE-B1FC-46DF-B239-474E58AE3B06" : "CB38BFC2-C032-44FD-ABE5-F00F53AB91DE",
+            "C3FF769E-E210-42F7-9806-AA90336FDAD9" : "CB48D36E-6A97-41BE-9101-8ADDB47C752C",
+            "1E969183-5C48-477D-A7D1-0F96AB4DD12B" : "C0F97E18-AE19-4EF9-9610-0E8DBA1E59DE",
+            "5F14FC1E-2AE0-4584-A9F5-2536FA678EAE" : "F7DD6A45-E747-41FF-8AB3-6E0ED4A0A2FC",
+            "2F1C3A86-3EB7-4B83-B9F0-FFFDF5137259" : "5A16B0F7-7480-44B3-A3CB-A2790E19AD78",
+            "B0C8AF7E-137F-4825-8D40-E8B9C8A1A966" : "87FE5971-26DA-48D3-96B8-39602E345220",
+            "3B823272-F144-4F14-B737-D8E204975F01" : "787F75A3-9CEF-4CFF-89BB-1645D9E0FF52",
+            "B332E82D-F3D6-4C4F-B357-CF06B1D72A81" : "0906B871-8571-4E59-AF5F-53030A11CD12",
+            "F7B4B000-382D-4A36-B3C9-420BB7F0D486" : "9C755367-F2BB-4E5F-9C6B-A75440BD12A3",
+            "68557068-4377-4F2B-AA64-E074EFD45339" : "890D0A58-F335-490B-BA62-D38403FBEF41",
+            "AB58F9BE-75A9-44EC-A345-14B8D2DFFA9B" : "F54E89A5-60E3-4DE0-9ABE-5E1D62265F94",
+            "C27E8FCD-7FC6-4E9C-A650-3A3278214CBA" : "9ADB0D28-05BC-4FFB-B852-3075805D3CBF",
+            "01862BEF-F3D1-48C3-9AD3-52C209F25BBD" : "ED65ADDA-7305-46A5-A7DB-1A682435C7B8",
+            "271FD7EB-BE8C-484D-9348-664EE1A09CD0" : "677780E5-69E9-4592-A499-65F065ADBD0A",
+            "98AC9E28-0D82-41E6-A869-C31A14A6A1A1" : "F3361B03-5BEB-452B-9AF5-0219C672FBDF",
+            "AE8B2BAE-ACE2-4DE2-9F9F-C338CC42B934" : "584E5AD2-3CD9-42B1-9D56-E9F9F0FE6A7B",
+            "CD4AE04C-CA02-47CE-ADCD-C2A07BED0473" : "5B96BBEF-78BB-49B6-AEEC-3F955DEFF9CB",
+            "9BD5779E-F5B3-4033-8353-17CD1EFB117B" : "D9E81AE9-5757-4530-AE1D-D33149926773",
+            "653D8893-958F-4DB3-B1FC-2A97B0E8A647" : "CA95F606-2F6D-41D2-8C23-AFDB479BEE30",
+            "7BBB2767-E0C4-475C-9F22-0EF3A6DC15B5" : "C0D58B5C-B24D-4169-B0B5-579016431E5C",
+            "826B0F85-5A30-42C9-803D-A5C73796677C" : "F98FF1A3-5141-4189-BAC5-1F39EF5E720D",
+            "5BE6039C-5939-4319-887E-0A7F94D7E8B0" : "4A4A420F-FCFA-4225-909F-DC257B5DA2BA",
+            "3F8E32AA-068D-43FE-9B8D-98C016632AAF" : "B7ABDFD3-57CD-4737-B2AB-286C53E1B725",
+            "6BC3E438-6595-400A-8357-1CB24FA6A8E8" : "DAB5AB93-DBED-46C0-8EE5-3452609D57C6",
+            "4EE06D85-DE99-4D23-9301-8E88B4C5C639" : "3F03B1F2-0C7D-4967-8636-3B105AA047FB",
+            "4093D789-EBF8-43C6-884B-7D501B931CD9" : "8BA62347-78D9-43ED-8F57-8F4F071E7253",
+            "95B9F508-0C9B-4CED-B672-FD78F5E669E8" : "5C55A09C-AFC4-4374-AA89-9CA50EB0CDA2",
+            "A702A09F-29C4-4227-9545-F41D37D5FFAD" : "79357980-36CA-4BF7-9D2C-66D2337B3B6E",
+            "A95ABD7A-3511-4E5E-9429-B96ECD9D460A" : "C6CEBDC1-381A-4EE4-9194-788846368B28",
+            "775536EF-508B-45AB-AD73-7ACB59443DBA" : "57AC8F29-D8B8-47DB-ADAE-6A5A66B5278F",
+            "62439816-F0B0-4B19-A3F7-6685E2C0AC96" : "9C928667-49D4-42E5-A129-4C7FB43479BE",
+            "162F7F2D-9ADB-4F25-A2D9-3D026CD79150" : "8E7237DA-2E31-4AC2-A9E3-2A3307E3F1BA",
+            "A939A13C-58E7-4B0A-885A-74B4C2002C65" : "0204E5A8-5C8A-45A3-A9B2-DA11E67A9DA5",
+            "B97E6202-2DF5-442E-A817-8ED664186B24" : "8BE744C6-B059-4FC7-9FD8-002CF2D11D8D",
+            "C9575B1E-25DA-4E56-B8EF-BA4D79E17896" : "4620621D-0D99-41EF-A520-C058036C049B",
+            "D68AF885-D820-49E1-8717-63BFE9AFEB27" : "BDC6F423-1007-460A-983B-D3250CAAA2E7",
+            "208FDBC9-B318-4A17-8476-99A7D217B4D1" : "BABE6120-688C-4B8B-9B46-BDB2B6C38127",
+            "D3CC81EB-B915-4AE9-A672-83533E45E15D" : "D8B04854-C8DB-4DAA-9626-928A8A576E5E",
+            "E452659A-83AA-45E9-81AE-A3D02D7E7A69" : "319F1973-533F-4CDD-BA94-2836D78C4FFF",
+            "D56231AF-36FB-4CCA-BD78-704BCF90FB64" : "F6D1DB02-0445-40DE-824D-06E61F19B22C",
+            "62DD8280-8A15-4B67-9A9F-AD6C6D7BAC3A" : "47742DB4-21DE-4CA0-B9CD-1EE44D9A64BF",
+            "92B036F1-3B73-48FF-BF07-1FAF4E80D709" : "3A2680C9-4010-4D9F-899F-D12549F1EEDC",
+            "15B8EE61-8352-460F-BFD9-597AC91778BE" : "FFAD49FB-CBD2-4752-AAD4-028369DB9B3B",
+            "AA5AD1F4-C6BF-4C37-9F04-AD91833E3020" : "E973FE80-2241-4A8A-9326-DF7E22A69C1A",
+            "1B84ABC8-8D23-4FFF-9A45-737E271A1936" : "B19409EC-CE6D-455C-B019-71D05A75767A",
+            "21FF9B27-CE34-430B-B405-36533495E9B6" : "1D598F83-977B-4327-B9EA-0E965BBC7F0B",
+            "969B9461-5577-4E98-AA0E-A9EA8F0AA3D2" : "9F9EC9D2-927F-46B8-8D9E-4E7DCED2B4B0",
+            "811EF596-E288-4540-9577-A99EC6A88E5C" : "FADC9AD5-BFC3-42F4-8D2C-F181B2055795",
+            "A99F1F42-F2C0-4897-A9FF-04C84744BA2A" : "A99BAD70-5DE2-4697-B616-7DA7C9B7BD8F",
+            "BBF94465-B8F9-478D-B89D-EF1F0CB83F26" : "34693F6D-D8EA-4D15-8841-EF5647ECA32B",
+            "D60AD8C4-8CB9-4033-B24D-A80EEAD72CB9" : "441427AC-2BE6-4A2E-A0E8-CEE711AD02F7",
+            "56F7B710-94CA-4303-B938-EC532C57F82F" : "EA96644F-FE96-42F5-9B52-CEEE867E2D7D",
+            "249DF981-BFC0-4679-82A3-EBF6177E14BE" : "03234ED3-9EDB-4BAC-BD46-ECF8984E0E2F",
+            "496E30D2-EC91-497A-899D-1B579768B0E7" : "E65E701D-9EEA-4481-B3DB-3EF88E945AAD",
+            "55D23151-3791-4FA1-851D-AF3EAA3FDCB4" : "0FAF0492-51D4-4829-BC76-EE0F93B3EEA8",
+            "CCE04869-3D82-4AE7-BB54-4FEA4E1D30A6" : "8A94B318-9D2D-481A-ADC0-C6EFEEDE0073",
+            "97DA4D10-0A6B-4BDB-A349-F0D71E55F569" : "CA5F29D8-DDE4-4598-8C73-E97362559AC1",
+            "EACE6492-001F-41B4-A96E-279652872335" : "6C4F4953-3FEC-4D21-A915-B38DA53A96B2",
+            "5818C718-D598-416B-920C-43F7B988A6AD" : "97F7856E-57F0-402E-8080-2F1766C4CDEF",
+            "F58B9294-A4CC-4FC8-A311-0CEB79756A40" : "9DF538CB-3CB2-4EE1-97C5-A9C07331DB01",
+            "CE2EF86B-4E4A-4922-B260-C56072532974" : "4FF9CB2A-E1E6-4356-B4D2-DE3816693D13",
+            "4F53B805-6B0B-4274-89C1-B442FE651098" : "131167E8-3B33-4907-B0CC-D960148EA0B4",
+            "E41155BE-B42F-476C-8C28-3AD8946A9448" : "CEBA92C9-A32B-4EF4-AF4E-526D2425BCB2",
+            "393F65AE-7022-4EE9-AD9B-B08AD79D4BC7" : "D8FCA9E1-0200-4875-957B-6B53A6053093",
+            "78DF5D7D-2096-4D5F-8BB6-7EEFC6E32D8C" : "B4B747B4-2708-42C8-A328-F594F50A6606",
+            "59622DB2-84AC-4B07-A5F8-5947D4D9B6EA" : "3E1B1196-8570-4260-967F-C7A32FF21C18",
+            "852ECF79-8B39-4E28-9D04-920734396E9C" : "72D736D2-0C41-4B53-9E41-0CCF9CF9820A",
+            "AE452799-105B-4CC4-A58E-5A24F9119D14" : "70D2ADAE-33BC-449C-AD26-FA96A3B1591D",
+            "BA5C262D-2FC1-447C-A440-A8199F9A9E72" : "80CE7AEF-2F66-4C00-BDDB-3F027725C85F",
+            "0E26D795-BCEB-43A1-BD28-4C213BDE537F" : "156EC709-D1ED-49FC-B2EB-89EE64C4FC6B",
+            "FCD98682-26BA-4E8C-A127-F7464F596E52" : "7827389B-7005-4B64-8162-B708D66CED9D",
+            "6E9A0BBD-AA60-4319-B5C0-CEE5E14D7D0D" : "63D6AAD9-F2D9-4E1E-908B-253DB7EC5E21",
+            "19BADCF2-7061-4708-85DB-6EECAB7E4C65" : "7813B15D-9C82-45CF-8B88-1A71BA0C68E0",
+            "70F0F0B3-DEF4-41D2-B28C-B654D5EA9F82" : "874CFAC6-3F44-4334-999C-4B1CE2A4A00C",
+            "FAD2B273-FD50-47D8-BE5B-8E6E48CF1B89" : "44318CF8-DA4E-4CAB-81FD-614041129305",
+            "2692DD56-7C3A-4BB8-B887-F2125BC6B239" : "AD2DB9F6-CC2E-49FB-ACCD-B3ED0821353E",
+            "65440DA6-913B-41C6-B48C-675C3F7152D5" : "5C2F05E8-77EA-4DC3-B163-2C29FEAE5E9B",
+            "60F69C01-3FC5-48ED-9F55-5CD96E5881FB" : "5F2A3B00-65BA-49CC-BED8-E99B81D397DA",
+            "768AA232-B542-44AD-B084-CDD03B7BB27F" : "CDAEA7A8-E0C6-47B0-93BF-8212A0B4D2E1",
+            "32311280-F696-4447-9816-179992D64700" : "9D13BD68-8ACD-42D6-BF33-0244818B4020",
+            "409B0314-31A8-4A80-9B3D-F6ED22C3AC9A" : "3EA3D797-5029-4DA6-81DA-CF3DD13716F2",
+            "4C99DB15-178E-4F87-99A3-86213D5962F5" : "6CBDE066-B375-4C3E-80C8-E2FEE9792E17",
+            "C79908C2-7198-4C6D-A055-0C5BF60012C2" : "B68B65EF-F684-42EB-87C6-D6E41EEDC23F",
+            "37D9D60A-A95B-4CD8-B683-5C36851F5556" : "ACE80807-BB7A-4DCA-9F02-A2BA8C29C08B",
+            "FB7BD64B-7F07-4B1A-A36A-BDB91CA12F3A" : "E1AEAEE2-EBD0-4AC0-A08A-9B5E519E6E66",
+            "0C8D30DB-1D4F-4D83-B050-1093A2501EFC" : "5D5B5DDC-736E-4D6B-8487-9C91CD2E3FA4",
+            "DD113ABE-410F-4D5E-8586-2DEC999575F4" : "F2E36C23-288E-42ED-AC90-93E0881DB09F",
+            "78CA346D-4051-4B8D-8A0C-DF7F925A4D68" : "5ACA31FD-8627-4152-BC79-8DEBCB7D5AE9",
+            "16CD1FD0-67E9-4FFD-BC18-0B617D29EF29" : "9D51E17F-0E57-4532-BB85-D38C663BE6C5",
+            "45EACEA7-006D-4BF3-8D5C-3DC5D6F8318C" : "3ABCF20E-1240-4E89-82A0-E8841B8238B3",
+            "89712B2D-2155-4624-B4CE-3EA49056DD6A" : "975A09FB-4C65-463F-BF35-7AD013988E0E"
+          },
+          "symbols" : {
+
+          },
+          "textStyles" : {
+            "8D8024F9-E570-49EF-863D-8146017E3D7A" : "B906D83D-75D1-48DA-B673-96B07B7F3E08",
+            "876C5ED6-5FAC-41EE-A3CE-091A8B2BC583" : "B094FD67-BB7E-4D8B-87E7-F3F157296CCD",
+            "FBAE4728-E175-4C25-9F14-5B7295625F7E" : "C7B425A5-BD83-46FA-A738-2F577EB8EDF5",
+            "C58A49E0-FD7A-4E5A-9AD2-87CC4E76FD03" : "236599D3-DD2C-4ED2-8244-2868B4916096",
+            "2B46B5D9-1037-47C3-B32A-18B9957DF1DA" : "C5E13BCC-1D75-4C18-A641-A813D9A3653F",
+            "4D9994E3-7620-40BB-AC47-DB391A190BB1" : "BD6AE28D-32E2-4CE4-953E-A0B2E7B4A035",
+            "D68E111F-1313-46A3-92FF-F14D847B4A98" : "BF0BB252-7FB1-454E-96DE-796084F49BBF",
+            "D3FAAEF0-C09D-4BFD-9CF0-19A2F1D4305F" : "3FE54B28-02AD-4223-BB93-CBEDCA562731",
+            "DA2DF33D-79B2-4AB3-854F-ABD9392E6979" : "9D23F05E-1C35-4CFA-A5C7-45AE3184A406",
+            "7EF18088-0E9A-4C90-966A-BBAF0927F34A" : "D08A27A5-E2AA-4A90-A9E2-D692A172B172",
+            "41D4696B-1E00-49C7-A406-85C3B2404C11" : "E425D9BF-6646-44FB-A584-4422FDB43317",
+            "FC963F54-0660-48CB-893E-1DEE7756DFF9" : "1A95EF63-065D-4543-8667-7E448E8FF71F",
+            "DB2A04DC-3AEA-47F8-8D6B-04E75352F2AD" : "9501F0D0-2784-4BCD-8E78-ADDB2DCA734E",
+            "128E6CA4-E22D-4F66-A4CE-385ED4A8DAAB" : "F348819E-3112-4951-B623-B15C7D82C6F5",
+            "784DC71D-5649-495D-8454-CBB203B22253" : "AB03549C-DA25-403F-847F-F787EF303E5A",
+            "54F4DC43-9C10-4622-BE55-9E6D27865BDC" : "CC30F7CD-7CA8-40B2-A24D-18B8ECE8CD5D",
+            "846FE743-0ADA-4E37-9354-D1B8BD99AB0B" : "DEF274C8-0B68-482E-87C2-87D50230D539",
+            "6DF878C4-D630-48FF-B8B4-EA26AB367391" : "8044018D-A020-4E34-81EA-98BAF378FF30",
+            "B9122E04-EAD4-447F-A6B2-4B642650D5EB" : "7DA9C9C9-1117-4DEB-9E6A-71DDC5FBFBDD",
+            "A94CC3D1-7873-48D0-AA50-1DE93D73FCA2" : "DB263CFB-8610-44FF-9899-8504E07F7A05",
+            "A199D2F3-56E1-4D4C-B589-6F129E8EFE83" : "5BF0E511-249B-423B-B62A-C8DC547051B8",
+            "CCEA27D6-0A62-4B96-AB69-7ED8942032BA" : "0EF3E98D-8B07-4DB8-B836-1239A77516CA",
+            "29B66147-2DBD-4AD0-ABD3-E64595C3708E" : "83DFCD2D-B4AB-4358-8FFC-8268CE618304",
+            "3361DCA2-41EC-432D-A5FE-D109234CEC66" : "FD987208-640A-4B52-88CF-98DE5658853A"
+          },
+          "layers" : {
+
+          }
+        }
+      },
+      "connected_kit" : {
+        "kit_uuid" : "A091798C-A400-4C01-A4AE-85B0C9472BD2",
+        "space_id" : "94285",
+        "version" : 0
+      },
+      "min_version" : 84,
+      "first_version" : 110,
+      "version" : 110
+    }
+  }
 }
